@@ -1,0 +1,28 @@
+import axios from "axios"
+import qs from "qs";
+import {Token} from "./interface"
+
+export async function getToken(): Promise<Token | null> {
+    const data = qs.stringify({
+        grant_type: "client_credentials",
+        client_id: process.env.CLIENT_ID,
+        client_secret: process.env.CLIENT_SECRET,
+        scope: process.env.SCOPES_API
+    });
+    console.log("Welcome to the france travail scrapping app:\n Key :");
+    const url = "https://entreprise.pole-emploi.fr/connexion/oauth2/access_token";
+    const res = await axios.post<Token>(url, data, {
+        headers:    {"Content-Type": "application/x-www-form-urlencoded"},
+        params:     {"realm": "partenaire"}
+        
+    }).catch(function (reponse){
+        console.log("error reponse status: ", reponse.status)
+        return (null)
+    })
+    if(res?.data)
+    {
+        //console.log(res?.data);
+        return res.data
+    }
+    return null
+}
