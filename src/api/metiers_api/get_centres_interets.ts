@@ -1,10 +1,10 @@
-import fs from "fs"
 import axios from "axios"
+import { write_data } from "../../utils/write_data"
 
 export async function get_centre_interet(token: string)
 {
-
     const url = "https://api.francetravail.io/partenaire/rome-metiers/v1/metiers/centre-interet";
+    const module: string = 'rome_metiers/interets'
     const res = await axios.get(url,
     {
         headers:{
@@ -18,12 +18,5 @@ export async function get_centre_interet(token: string)
             ].join(',')
         }
     })
-    for(const v of res.data)
-    {
-        const name = `interets_${v['code']}.json`
-        fs.writeFileSync("./src/data/interets/"+name, JSON.stringify(v, null, 2));
-    }
-    //fs.writeFileSync("./src/data/interets/"+name, JSON.stringify(res.data[10], null, 2));
-    //console.log(res.data);
-
+    write_data(res,module);
 }

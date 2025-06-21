@@ -1,10 +1,10 @@
-import fs from "fs"
 import axios from "axios"
+import { write_data } from "../../utils/write_data"
 
 export async function get_domaines_professionnels(token:string)
 {
-    const url = "https://api.francetravail.io/partenaire/rome-metiers/v1/metiers/domaine-professionnel"
-
+    const url = "https://api.francetravail.io/partenaire/rome-metiers/v1/metiers/domaine-professionnel";
+    const module_name = 'rome_metiers/domaines';
     const res = await axios.get(url, {
         headers:{
             Authorization: `Bearer ${token}`,
@@ -16,13 +16,5 @@ export async function get_domaines_professionnels(token:string)
            ].join(',')
         }
     })
-    for(const v of res.data)
-    {
-        const name = `domaine_${v['code']}.json`
-        fs.writeFileSync("./src/data/domaines/"+name, JSON.stringify(v, null, 2));
-    }
-    //const name = `domaine_${res.data['code']}.json`
-    //fs.writeFileSync("./src/data/domaine/"+name, JSON.stringify(res.data[10], null, 2));
-    //console.log(res.data);
-
+    write_data(res, module_name);
 }

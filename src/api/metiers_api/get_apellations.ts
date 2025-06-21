@@ -1,9 +1,10 @@
 import axios from "axios";
-import fs from "fs"
+import { write_data } from "../../utils/write_data"
 
 export async function get_apellations_list(token:string)
 {
     const url: string = "https://api.francetravail.io/partenaire/rome-metiers/v1/metiers/appellation"
+    const module: string = 'rome_metiers/apellations';
     const res = await axios.get(url,{
         headers: {
             Authorization: `Bearer ${token}`,
@@ -17,9 +18,5 @@ export async function get_apellations_list(token:string)
 
         }
     });
-    for (const v of res.data)
-    {
-        const name = `appellation_${v['code']}.json`
-        fs.writeFileSync(`./src/data/apellations/${name}`, JSON.stringify(v,null,2))
-    }
+    write_data(res,module);
 }

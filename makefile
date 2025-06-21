@@ -1,11 +1,15 @@
-OBJS_JSON = src/data/**/*
+OBJS_JSON = src/data/**/**/*
 
-COM=
+COM=default_push
 
-git:
+git: clean
+
 	git add . 
 	git commit -m $(COM) 
 	git push origin main
 
 clean:
-	rm ${OBJS_JSON}
+	rm -f ${OBJS_JSON}
+
+r: clean
+	npm run dev
