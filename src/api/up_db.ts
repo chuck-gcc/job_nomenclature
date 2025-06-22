@@ -5,26 +5,6 @@ import  * as Module_c  from "./module_rome_c";
 import  * as Module_m  from "./module_rome_m";
 
 
-
-const data_rome_competences = {
-
-    rome_c: {
-        module_size: 10,
-        module: {
-            objectifs: Module_c.ModuleObjectifs,
-            categorieSavoirs: Module_c.ModuleCategorieSavoirs,
-            competencesDetaillee: Module_c.ModuleCompetencesDetaillee,
-            competences: Module_c.ModuleCompetence,
-            domainesCompetence : Module_c.ModuleDomainesCompetence,
-            enjeux: Module_c.ModuleEnjeux,
-            macrosCompetence: Module_c.ModuleMacrosCompetence,
-            //macrosSavoir: Module_c.ModuleMacrosSavoir,
-            macrosSavoirEtre: Module_c.ModuleMacrosSavoirEtre,
-            savoirs: Module_c.ModuleSavoirs
-        }
-    }
-}
-
 class Rome_Competences {
 
     module_size: number;
@@ -89,11 +69,8 @@ export async function update_db(token:Token)
     
     const data_rome_metiers = new Rome_Metiers(token.access_token);
     const data_rome_competences = new Rome_Competences(token.access_token);
-    const {apellations} = data_rome_metiers;
-
-    //console.log(Object.entries(data_rome_metiers));
-    console.log(apellations);
-
-    await update_module(apellations, data_rome_competences.token);
     
+    const data_rome_competences_len = data_rome_competences.module_size
+    
+    console.log(Object.values(data_rome_competences));
 }
