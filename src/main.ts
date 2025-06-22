@@ -1,6 +1,6 @@
 import dotenv from "dotenv"
 import { getToken , Token } from "./api/token/token";
-import {update_db} from "./api/update_db"
+import {update_db} from "./api/up_db"
 
 async function main(){
 
