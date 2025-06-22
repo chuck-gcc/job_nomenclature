@@ -1,10 +1,10 @@
 import axios from "axios"
 import fs from "fs"
 
-export async function get_version_metier(token:string)
+export async function get_version_rome_m(token:string)
 {
     const url = 'https://api.francetravail.io/partenaire/rome-metiers/v1/metiers/version';
-    const module: string = 'rome_metiers/version' 
+    const module: string = 'rome_metiers/version_rome_m' 
     const res = await axios.get(url, {
         headers: {
             Authorization: `Bearer ${token}`,

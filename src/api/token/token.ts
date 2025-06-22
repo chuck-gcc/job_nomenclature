@@ -1,6 +1,13 @@
 import axios from "axios"
 import qs from "qs";
-import {Token} from "./interface"
+
+export interface Token
+{
+    access_token: string,
+    scope: string,
+    token_type: string,
+    expires_in: number
+}
 
 export async function getToken(): Promise<Token | null> {
     const data = qs.stringify({

@@ -1,4 +1,5 @@
-OBJS_JSON = src/data/**/**/*
+OBJS_METIER = src/data/rome_metiers/**/* 
+OBJS_COMP = src/data/rome_competences/**/*
 
 COM=default_push
 
@@ -9,7 +10,10 @@ git: clean
 	git push origin main
 
 clean:
-	rm -f ${OBJS_JSON}
+	rm -rf src/data/rome_competences/competences && mkdir src/data/rome_competences/competences
+	rm -rf src/data/rome_competences/competences_detaillee && mkdir src/data/rome_competences/competences_detaillee
+	rm -f ${OBJS_COMP}
+	rm -f ${OBJS_METIER}
 
 r: clean
 	npm run dev

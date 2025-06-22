@@ -10,3 +10,7 @@ export function write_data(rep: AxiosResponse, module: string)
         fs.writeFileSync(`./src/data/${module}/${name}`, JSON.stringify(v, null, 2));
     }
 }
+
+export async function sleep(ms: number): Promise<void> {
+    return new Promise((resolve) => setTimeout(resolve, ms));
+}

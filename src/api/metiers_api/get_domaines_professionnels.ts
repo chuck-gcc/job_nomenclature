@@ -1,5 +1,5 @@
 import axios from "axios"
-import { write_data } from "../../utils/write_data"
+import { write_data } from "../../utils/utils"
 
 export async function get_domaines_professionnels(token:string)
 {
