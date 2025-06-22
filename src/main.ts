@@ -1,6 +1,6 @@
 import dotenv from "dotenv"
 import { getToken , Token } from "./api/token/token";
-import {update_db} from "./api/up_db"
+import {update_data} from "./api/update_data"
 
 async function main(){
 
@@ -9,6 +9,6 @@ async function main(){
     const token: Token | null = await getToken();
     if(!token)
         return ;
-    update_db(token);
+    update_data(token);
 }
 main();
