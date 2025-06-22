@@ -1,13 +1,14 @@
 OBJS_METIER = src/data/rome_metiers/**/* 
 OBJS_COMP = src/data/rome_competences/**/*
 
+ORIGIN =  $(shell git branch --show-current)
 COM=default_push
 
 git: clean
 
 	git add . 
 	git commit -m $(COM) 
-	git push origin main
+	git push origin $(ORIGIN)
 
 clean:
 	rm -rf src/data/rome_competences/competences && mkdir src/data/rome_competences/competences
