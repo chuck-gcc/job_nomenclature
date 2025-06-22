@@ -9,13 +9,14 @@ export interface Module
 }
 
 
-export async function update_module(mod:Module)
+export async function update_module(mod:Module, token: string)
 {
     const url: string = mod.url
+    console.log("update module name: ", mod.module_name)
     const module: string = mod.module_name;
     const res = await axios.get(url,{
         headers: {
-            Authorization: `Bearer ${mod.}`,
+            Authorization: `Bearer ${token}`,
             'Content-Type': 'application/json'
         },
         params: { 

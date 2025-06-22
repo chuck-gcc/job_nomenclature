@@ -19,11 +19,12 @@ export async function getToken(): Promise<Token | null> {
     console.log("Welcome to the france travail scrapping app:\n");
     const url = "https://entreprise.pole-emploi.fr/connexion/oauth2/access_token";
     const res = await axios.post<Token>(url, data, {
+        
         headers:    {"Content-Type": "application/x-www-form-urlencoded"},
         params:     {"realm": "partenaire"}
         
     }).catch(function (reponse){
-        console.log("error reponse status: ", reponse.status)
+        console.log("error reponse status: ")
         return (null)
     })
     if(res?.data)

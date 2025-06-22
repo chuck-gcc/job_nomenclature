@@ -94,6 +94,6 @@ export async function update_db(token:Token)
     //console.log(Object.entries(data_rome_metiers));
     console.log(apellations);
 
-    
+    await update_module(apellations, data_rome_competences.token);
     
 }
