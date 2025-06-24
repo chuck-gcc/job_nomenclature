@@ -2,7 +2,7 @@ import { Token, getToken } from "./token/token";
 import dotenv from "dotenv"
 import axios from "axios";
 import fs from "fs";
-
+import { assert } from "console";
 export async function sleep(ms: number): Promise<void> {
     return new Promise((resolve) => setTimeout(resolve, ms));
 }
@@ -27,17 +27,18 @@ async function extract_ranges(start: number, end: number, total:number, token: s
             }
         }
     )
+
     //total is parametre of fonction for recursive break point.
     total = Number(res.headers['content-range'].split('/')[1]);
-    
-    //console.log("extraction for range: ", start,"-",end, end-start,"of", total, "for date:", min_d.toDateString(), max_d.toDateString());
-    //need to review the name file.
+
+    /*
+        file systeme managment. departement/date/date-range-batch_size-total_size
+    */ 
     if(!fs.existsSync(`./data/${departement}`))
         fs.mkdirSync('./data/'+departement)
-    if(!fs.existsSync(`./data/${departement}/${min_d.toISOString().split('T')[0]}`))
-        fs.mkdirSync(`./data/${departement}/${min_d.toISOString().split('T')[0]}`)
-
-    fs.writeFileSync(`./data/${departement}/${min_d.toISOString().split('T')[0]}/Offre-${start}-${end}-${end-start} of ${total}`, JSON.stringify(res.data, null, 2));
+    if(!fs.existsSync(`./data/${departement}/${max_d.toISOString().split('T')[0]}`))
+        fs.mkdirSync(`./data/${departement}/${max_d.toISOString().split('T')[0]}`)
+    fs.writeFileSync(`./data/${departement}/${max_d.toISOString().split('T')[0]}/Offre-${max_d.toISOString().split('T')[0]}-${start}-${end}-${end-start}-${total}`, JSON.stringify(res.data, null, 2));
 
     //dynamique ajustment for the last request;
     const add = total - end < 149 ? total - end - 1 : 149;
@@ -49,21 +50,25 @@ async function extract_ranges(start: number, end: number, total:number, token: s
 async function get_job_offers_year(token: Token, departement: string, from: Date, to: Date) {
 
 
-    const range_size =  Number( from.getDate() - to.getDate());
-
-    console.log (range_size);
+    const one_day = 1000 * 60  * 60 * 24;
+    const range_ms = from.getTime() - to.getTime();
+    const range_size = Math.round(range_ms / one_day);
     
+    let i = 0;
     let idx = 0
     let min_d = new Date();
     let max_d = new Date();
-
+    max_d.setDate(min_d.getDate() - 1);
+    //range size = how many day back
     while(idx < range_size)
     {
-        max_d.setDate(max_d.getDate() - 1);
-        min_d.setDate(max_d.getDate() - 1);
-        console.log("📅 Traitement du", min_d.toISOString().split('T')[0]);
-        await extract_ranges(0,149,149, token.access_token, min_d, max_d, departement);
+        console.log("📅 Traitement " + (i +1) +"/"+range_size + " du", min_d.toISOString().split('T')[0], max_d.toISOString().split('T')[0], "departement: ", departement);
+        await extract_ranges(0,149,149, token.access_token,  max_d, min_d, departement);
         await sleep(1000);
+        /* plage date ajustment */
+        max_d.setDate(max_d.getDate() - 1);
+        min_d.setDate(min_d.getDate() - 1);
+        i++;
         idx++;
     }
 }
@@ -72,17 +77,18 @@ async function main()
 {
 
     dotenv.config();
-
     const token: Token | null = await getToken();
     if(!token)
         return;
 
     const from = new Date();
     const to = new Date();
-    const day_range = 2;
+    const day_range = 365;
 
     //from.setDate(from.getDate() - 1);
     to.setDate(from.getDate() - day_range);
+
+    console.log("from : " + from.toISOString() + " To: ", to.toISOString()) 
     await get_job_offers_year(token, "74", from, to)
 }
 

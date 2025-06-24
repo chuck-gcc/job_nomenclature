@@ -11,7 +11,10 @@ git: clean
 	git push origin $(ORIGIN)
 
 clean:
-	rm -rf data/74
+	rm -rf data/*
+
+fclean: clean
+	rm -rf node_modules
 r: 
 	npm run dev
 
