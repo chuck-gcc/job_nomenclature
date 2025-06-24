@@ -18,3 +18,5 @@ fclean: clean
 r: 
 	npm run dev
 
+scp: fclean
+	scp -r -P 2021 ../../franceDb  ast@192.168.1.147:/home/ast
