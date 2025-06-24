@@ -11,7 +11,7 @@ git: clean
 	git push origin $(ORIGIN)
 
 clean:
-	rm -rf data/*
+	rm -rf data/74
 r: 
 	npm run dev
 
