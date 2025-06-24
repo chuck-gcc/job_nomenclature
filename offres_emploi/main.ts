@@ -2,7 +2,6 @@ import { Token, getToken } from "./token/token";
 import dotenv from "dotenv"
 import axios from "axios";
 import fs from "fs";
-import { assert } from "console";
 
 export async function sleep(ms: number): Promise<void> {
     return new Promise((resolve) => setTimeout(resolve, ms));
@@ -10,7 +9,8 @@ export async function sleep(ms: number): Promise<void> {
 
 async function extract_ranges(start: number, end: number, total:number, token: string, min_d: Date, max_d:Date, departement:string)
 {
-
+    // recursive break point. 3000 is max of page. Total is the total of result at day department at day.
+    // if result len for a day is bigger than 3149 , the next  result  cannot be download.
     if(start > total || start > 3000)
         return;
 
@@ -27,11 +27,17 @@ async function extract_ranges(start: number, end: number, total:number, token: s
             }
         }
     )
+    //total is parametre of fonction for recursive break point.
     total = Number(res.headers['content-range'].split('/')[1]);
+    
     console.log("extraction for range: ", start,"-",end, end-start,"of", total, "for date:", min_d.toDateString(), max_d.toDateString());
+    //need to review the name file.
     fs.writeFileSync(`./data/file_${start}-${end}-${end-start} of ${total}`, JSON.stringify(res.data, null, 2));
-    const add = total - end < 149 ? total - end - 1 : 149
-    await extract_ranges(end + 1, end + 1 + add,total,token, min_d, max_d, departement);
+
+    //dynamique ajustment for the last request;
+    const add = total - end < 149 ? total - end - 1 : 149;
+    // recusif call.
+    await extract_ranges(end + 1, end + 1 + add, total, token, min_d, max_d, departement);
 }
 
 
