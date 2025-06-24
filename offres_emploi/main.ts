@@ -21,7 +21,7 @@ async function extract_ranges(start: number, end: number, total:number, token: s
             },
             params:{
                 range:`${start}-${end}`,
-                departement:de,
+                departement:departement,
                 minCreationDate: min_d.toISOString().split('.')[0] + 'Z',
                 maxCreationDate: max_d.toISOString().split('.')[0] + 'Z'
             }
