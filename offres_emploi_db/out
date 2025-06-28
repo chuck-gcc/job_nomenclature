@@ -1,0 +1,6924 @@
+npm run test
+
+> test
+> ts-node  test_unit/test.ts
+
+PAR_findjob_47d1b34024d85ce356ac3f1e1a7e81fc649bbb4db3996351f17aa82abf454c50
+Welcome to the france travail scrapping app:
+
+Iteration 0
+
+statust 206
+
+°Total size: 523
+°Range: 149
+°Complet batch: 3 * 149
+incomplete batch: 1 * 76
+149 * 3 + 76
+ 523
+4
+Iteration 1
+
+statust 206
+
+°Total size: 695
+°Range: 149
+°Complet batch: 4 * 149
+incomplete batch: 1 * 99
+149 * 4 + 99
+ 695
+5
+Iteration 2
+
+statust 206
+
+°Total size: 1033
+°Range: 149
+°Complet batch: 6 * 149
+incomplete batch: 1 * 139
+149 * 6 + 139
+ 1033
+7
+Iteration 3
+
+statust 206
+
+°Total size: 724
+°Range: 149
+°Complet batch: 4 * 149
+incomplete batch: 1 * 128
+149 * 4 + 128
+ 724
+5
+Iteration 4
+
+statust 206
+
+°Total size: 307
+°Range: 149
+°Complet batch: 2 * 149
+incomplete batch: 1 * 9
+149 * 2 + 9
+ 307
+3
+Iteration 5
+
+statust 206
+
+°Total size: 425
+°Range: 149
+°Complet batch: 2 * 149
+incomplete batch: 1 * 127
+149 * 2 + 127
+ 425
+3
+Iteration 6
+
+statust 200
+
+°Total size: 9
+°Range: 8
+°Complet batch: 1 * 8
+incomplete batch: 1 * 0
+8 * 1 + 0
+ 8
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-8&departement=74&minCreationDate=2025-06-21T10:40:06Z&maxCreationDate=2025-06-22T10:40:06Z
+Iteration 7
+
+statust 206
+
+°Total size: 246
+°Range: 149
+°Complet batch: 1 * 149
+incomplete batch: 1 * 97
+149 * 1 + 97
+ 246
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-149&departement=74&minCreationDate=2025-06-20T10:40:06Z&maxCreationDate=2025-06-21T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=150-246&departement=74
+Iteration 8
+
+statust 206
+
+°Total size: 369
+°Range: 149
+°Complet batch: 2 * 149
+incomplete batch: 1 * 71
+149 * 2 + 71
+ 369
+3
+Iteration 9
+
+statust 206
+
+°Total size: 318
+°Range: 149
+°Complet batch: 2 * 149
+incomplete batch: 1 * 20
+149 * 2 + 20
+ 318
+3
+Iteration 10
+
+statust 206
+
+°Total size: 334
+°Range: 149
+°Complet batch: 2 * 149
+incomplete batch: 1 * 36
+149 * 2 + 36
+ 334
+3
+Iteration 11
+
+statust 206
+
+°Total size: 389
+°Range: 149
+°Complet batch: 2 * 149
+incomplete batch: 1 * 91
+149 * 2 + 91
+ 389
+3
+Iteration 12
+
+statust 200
+
+°Total size: 85
+°Range: 84
+°Complet batch: 1 * 84
+incomplete batch: 1 * 0
+84 * 1 + 0
+ 84
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-84&departement=74&minCreationDate=2025-06-15T10:40:06Z&maxCreationDate=2025-06-16T10:40:06Z
+Iteration 13
+
+statust 206
+
+°Total size: 159
+°Range: 149
+°Complet batch: 1 * 149
+incomplete batch: 1 * 10
+149 * 1 + 10
+ 159
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-149&departement=74&minCreationDate=2025-06-14T10:40:06Z&maxCreationDate=2025-06-15T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=150-159&departement=74
+Iteration 14
+
+statust 206
+
+°Total size: 314
+°Range: 149
+°Complet batch: 2 * 149
+incomplete batch: 1 * 16
+149 * 2 + 16
+ 314
+3
+Iteration 15
+
+statust 206
+
+°Total size: 422
+°Range: 149
+°Complet batch: 2 * 149
+incomplete batch: 1 * 124
+149 * 2 + 124
+ 422
+3
+Iteration 16
+
+statust 206
+
+°Total size: 407
+°Range: 149
+°Complet batch: 2 * 149
+incomplete batch: 1 * 109
+149 * 2 + 109
+ 407
+3
+Iteration 17
+
+statust 206
+
+°Total size: 353
+°Range: 149
+°Complet batch: 2 * 149
+incomplete batch: 1 * 55
+149 * 2 + 55
+ 353
+3
+Iteration 18
+
+statust 200
+
+°Total size: 129
+°Range: 128
+°Complet batch: 1 * 128
+incomplete batch: 1 * 0
+128 * 1 + 0
+ 128
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-128&departement=74&minCreationDate=2025-06-09T10:40:06Z&maxCreationDate=2025-06-10T10:40:06Z
+Iteration 19
+
+statust 200
+
+°Total size: 15
+°Range: 14
+°Complet batch: 1 * 14
+incomplete batch: 1 * 0
+14 * 1 + 0
+ 14
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-14&departement=74&minCreationDate=2025-06-08T10:40:06Z&maxCreationDate=2025-06-09T10:40:06Z
+Iteration 20
+
+statust 200
+
+°Total size: 128
+°Range: 127
+°Complet batch: 1 * 127
+incomplete batch: 1 * 0
+127 * 1 + 0
+ 127
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-127&departement=74&minCreationDate=2025-06-07T10:40:06Z&maxCreationDate=2025-06-08T10:40:06Z
+Iteration 21
+
+statust 206
+
+°Total size: 165
+°Range: 149
+°Complet batch: 1 * 149
+incomplete batch: 1 * 16
+149 * 1 + 16
+ 165
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-149&departement=74&minCreationDate=2025-06-06T10:40:06Z&maxCreationDate=2025-06-07T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=150-165&departement=74
+Iteration 22
+
+statust 206
+
+°Total size: 343
+°Range: 149
+°Complet batch: 2 * 149
+incomplete batch: 1 * 45
+149 * 2 + 45
+ 343
+3
+Iteration 23
+
+statust 206
+
+°Total size: 207
+°Range: 149
+°Complet batch: 1 * 149
+incomplete batch: 1 * 58
+149 * 1 + 58
+ 207
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-149&departement=74&minCreationDate=2025-06-04T10:40:06Z&maxCreationDate=2025-06-05T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=150-207&departement=74
+Iteration 24
+
+statust 206
+
+°Total size: 330
+°Range: 149
+°Complet batch: 2 * 149
+incomplete batch: 1 * 32
+149 * 2 + 32
+ 330
+3
+Iteration 25
+
+statust 200
+
+°Total size: 135
+°Range: 134
+°Complet batch: 1 * 134
+incomplete batch: 1 * 0
+134 * 1 + 0
+ 134
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-134&departement=74&minCreationDate=2025-06-02T10:40:06Z&maxCreationDate=2025-06-03T10:40:06Z
+Iteration 26
+
+statust 200
+
+°Total size: 24
+°Range: 23
+°Complet batch: 1 * 23
+incomplete batch: 1 * 0
+23 * 1 + 0
+ 23
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-23&departement=74&minCreationDate=2025-06-01T10:40:06Z&maxCreationDate=2025-06-02T10:40:06Z
+Iteration 27
+
+statust 200
+
+°Total size: 67
+°Range: 66
+°Complet batch: 1 * 66
+incomplete batch: 1 * 0
+66 * 1 + 0
+ 66
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-66&departement=74&minCreationDate=2025-05-31T10:40:06Z&maxCreationDate=2025-06-01T10:40:06Z
+Iteration 28
+
+statust 200
+
+°Total size: 56
+°Range: 55
+°Complet batch: 1 * 55
+incomplete batch: 1 * 0
+55 * 1 + 0
+ 55
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-55&departement=74&minCreationDate=2025-05-30T10:40:06Z&maxCreationDate=2025-05-31T10:40:06Z
+Iteration 29
+
+statust 200
+
+°Total size: 41
+°Range: 40
+°Complet batch: 1 * 40
+incomplete batch: 1 * 0
+40 * 1 + 0
+ 40
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-40&departement=74&minCreationDate=2025-05-29T10:40:06Z&maxCreationDate=2025-05-30T10:40:06Z
+Iteration 30
+
+statust 200
+
+°Total size: 131
+°Range: 130
+°Complet batch: 1 * 130
+incomplete batch: 1 * 0
+130 * 1 + 0
+ 130
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-130&departement=74&minCreationDate=2025-05-28T10:40:06Z&maxCreationDate=2025-05-29T10:40:06Z
+Iteration 31
+
+statust 206
+
+°Total size: 158
+°Range: 149
+°Complet batch: 1 * 149
+incomplete batch: 1 * 9
+149 * 1 + 9
+ 158
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-149&departement=74&minCreationDate=2025-05-27T10:40:06Z&maxCreationDate=2025-05-28T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=150-158&departement=74
+Iteration 32
+
+statust 200
+
+°Total size: 61
+°Range: 60
+°Complet batch: 1 * 60
+incomplete batch: 1 * 0
+60 * 1 + 0
+ 60
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-60&departement=74&minCreationDate=2025-05-26T10:40:06Z&maxCreationDate=2025-05-27T10:40:06Z
+Iteration 33
+
+statust 200
+
+°Total size: 18
+°Range: 17
+°Complet batch: 1 * 17
+incomplete batch: 1 * 0
+17 * 1 + 0
+ 17
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-17&departement=74&minCreationDate=2025-05-25T10:40:06Z&maxCreationDate=2025-05-26T10:40:06Z
+Iteration 34
+
+statust 200
+
+°Total size: 3
+°Range: 2
+°Complet batch: 1 * 2
+incomplete batch: 1 * 0
+2 * 1 + 0
+ 2
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-2&departement=74&minCreationDate=2025-05-24T10:40:06Z&maxCreationDate=2025-05-25T10:40:06Z
+Iteration 35
+
+statust 200
+
+°Total size: 45
+°Range: 44
+°Complet batch: 1 * 44
+incomplete batch: 1 * 0
+44 * 1 + 0
+ 44
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-44&departement=74&minCreationDate=2025-05-23T10:40:06Z&maxCreationDate=2025-05-24T10:40:06Z
+Iteration 36
+
+statust 200
+
+°Total size: 40
+°Range: 39
+°Complet batch: 1 * 39
+incomplete batch: 1 * 0
+39 * 1 + 0
+ 39
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-39&departement=74&minCreationDate=2025-05-22T10:40:06Z&maxCreationDate=2025-05-23T10:40:06Z
+Iteration 37
+
+statust 200
+
+°Total size: 39
+°Range: 38
+°Complet batch: 1 * 38
+incomplete batch: 1 * 0
+38 * 1 + 0
+ 38
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-38&departement=74&minCreationDate=2025-05-21T10:40:06Z&maxCreationDate=2025-05-22T10:40:06Z
+Iteration 38
+
+statust 200
+
+°Total size: 143
+°Range: 142
+°Complet batch: 1 * 142
+incomplete batch: 1 * 0
+142 * 1 + 0
+ 142
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-142&departement=74&minCreationDate=2025-05-20T10:40:06Z&maxCreationDate=2025-05-21T10:40:06Z
+Iteration 39
+
+statust 200
+
+°Total size: 85
+°Range: 84
+°Complet batch: 1 * 84
+incomplete batch: 1 * 0
+84 * 1 + 0
+ 84
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-84&departement=74&minCreationDate=2025-05-19T10:40:06Z&maxCreationDate=2025-05-20T10:40:06Z
+Iteration 40
+
+statust 200
+
+°Total size: 12
+°Range: 11
+°Complet batch: 1 * 11
+incomplete batch: 1 * 0
+11 * 1 + 0
+ 11
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-11&departement=74&minCreationDate=2025-05-18T10:40:06Z&maxCreationDate=2025-05-19T10:40:06Z
+Iteration 41
+
+statust 200
+
+°Total size: 18
+°Range: 17
+°Complet batch: 1 * 17
+incomplete batch: 1 * 0
+17 * 1 + 0
+ 17
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-17&departement=74&minCreationDate=2025-05-17T10:40:06Z&maxCreationDate=2025-05-18T10:40:06Z
+Iteration 42
+
+statust 200
+
+°Total size: 32
+°Range: 31
+°Complet batch: 1 * 31
+incomplete batch: 1 * 0
+31 * 1 + 0
+ 31
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-31&departement=74&minCreationDate=2025-05-16T10:40:06Z&maxCreationDate=2025-05-17T10:40:06Z
+Iteration 43
+
+statust 200
+
+°Total size: 36
+°Range: 35
+°Complet batch: 1 * 35
+incomplete batch: 1 * 0
+35 * 1 + 0
+ 35
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-35&departement=74&minCreationDate=2025-05-15T10:40:06Z&maxCreationDate=2025-05-16T10:40:06Z
+Iteration 44
+
+statust 200
+
+°Total size: 40
+°Range: 39
+°Complet batch: 1 * 39
+incomplete batch: 1 * 0
+39 * 1 + 0
+ 39
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-39&departement=74&minCreationDate=2025-05-14T10:40:06Z&maxCreationDate=2025-05-15T10:40:06Z
+Iteration 45
+
+statust 200
+
+°Total size: 100
+°Range: 99
+°Complet batch: 1 * 99
+incomplete batch: 1 * 0
+99 * 1 + 0
+ 99
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-99&departement=74&minCreationDate=2025-05-13T10:40:06Z&maxCreationDate=2025-05-14T10:40:06Z
+Iteration 46
+
+statust 200
+
+°Total size: 60
+°Range: 59
+°Complet batch: 1 * 59
+incomplete batch: 1 * 0
+59 * 1 + 0
+ 59
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-59&departement=74&minCreationDate=2025-05-12T10:40:06Z&maxCreationDate=2025-05-13T10:40:06Z
+Iteration 47
+
+statust 200
+
+°Total size: 13
+°Range: 12
+°Complet batch: 1 * 12
+incomplete batch: 1 * 0
+12 * 1 + 0
+ 12
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-12&departement=74&minCreationDate=2025-05-11T10:40:06Z&maxCreationDate=2025-05-12T10:40:06Z
+Iteration 48
+
+statust 200
+
+°Total size: 34
+°Range: 33
+°Complet batch: 1 * 33
+incomplete batch: 1 * 0
+33 * 1 + 0
+ 33
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-33&departement=74&minCreationDate=2025-05-10T10:40:06Z&maxCreationDate=2025-05-11T10:40:06Z
+Iteration 49
+
+statust 200
+
+°Total size: 24
+°Range: 23
+°Complet batch: 1 * 23
+incomplete batch: 1 * 0
+23 * 1 + 0
+ 23
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-23&departement=74&minCreationDate=2025-05-09T10:40:06Z&maxCreationDate=2025-05-10T10:40:06Z
+Iteration 50
+
+statust 200
+
+°Total size: 22
+°Range: 21
+°Complet batch: 1 * 21
+incomplete batch: 1 * 0
+21 * 1 + 0
+ 21
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-21&departement=74&minCreationDate=2025-05-08T10:40:06Z&maxCreationDate=2025-05-09T10:40:06Z
+Iteration 51
+
+statust 200
+
+°Total size: 41
+°Range: 40
+°Complet batch: 1 * 40
+incomplete batch: 1 * 0
+40 * 1 + 0
+ 40
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-40&departement=74&minCreationDate=2025-05-07T10:40:06Z&maxCreationDate=2025-05-08T10:40:06Z
+Iteration 52
+
+statust 200
+
+°Total size: 84
+°Range: 83
+°Complet batch: 1 * 83
+incomplete batch: 1 * 0
+83 * 1 + 0
+ 83
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-83&departement=74&minCreationDate=2025-05-06T10:40:06Z&maxCreationDate=2025-05-07T10:40:06Z
+Iteration 53
+
+statust 200
+
+°Total size: 23
+°Range: 22
+°Complet batch: 1 * 22
+incomplete batch: 1 * 0
+22 * 1 + 0
+ 22
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-22&departement=74&minCreationDate=2025-05-05T10:40:06Z&maxCreationDate=2025-05-06T10:40:06Z
+Iteration 54
+
+statust 200
+
+°Total size: 7
+°Range: 6
+°Complet batch: 1 * 6
+incomplete batch: 1 * 0
+6 * 1 + 0
+ 6
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-6&departement=74&minCreationDate=2025-05-04T10:40:06Z&maxCreationDate=2025-05-05T10:40:06Z
+Iteration 55
+
+statust 200
+
+°Total size: 11
+°Range: 10
+°Complet batch: 1 * 10
+incomplete batch: 1 * 0
+10 * 1 + 0
+ 10
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-10&departement=74&minCreationDate=2025-05-03T10:40:06Z&maxCreationDate=2025-05-04T10:40:06Z
+Iteration 56
+
+statust 200
+
+°Total size: 28
+°Range: 27
+°Complet batch: 1 * 27
+incomplete batch: 1 * 0
+27 * 1 + 0
+ 27
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-27&departement=74&minCreationDate=2025-05-02T10:40:06Z&maxCreationDate=2025-05-03T10:40:06Z
+Iteration 57
+
+statust 200
+
+°Total size: 37
+°Range: 36
+°Complet batch: 1 * 36
+incomplete batch: 1 * 0
+36 * 1 + 0
+ 36
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-36&departement=74&minCreationDate=2025-05-01T10:40:06Z&maxCreationDate=2025-05-02T10:40:06Z
+Iteration 58
+
+statust 200
+
+°Total size: 21
+°Range: 20
+°Complet batch: 1 * 20
+incomplete batch: 1 * 0
+20 * 1 + 0
+ 20
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-20&departement=74&minCreationDate=2025-04-30T10:40:06Z&maxCreationDate=2025-05-01T10:40:06Z
+Iteration 59
+
+statust 200
+
+°Total size: 47
+°Range: 46
+°Complet batch: 1 * 46
+incomplete batch: 1 * 0
+46 * 1 + 0
+ 46
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-46&departement=74&minCreationDate=2025-04-29T10:40:06Z&maxCreationDate=2025-04-30T10:40:06Z
+Iteration 60
+
+statust 200
+
+°Total size: 25
+°Range: 24
+°Complet batch: 1 * 24
+incomplete batch: 1 * 0
+24 * 1 + 0
+ 24
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-24&departement=74&minCreationDate=2025-04-28T10:40:06Z&maxCreationDate=2025-04-29T10:40:06Z
+Iteration 61
+
+statust 200
+
+°Total size: 5
+°Range: 4
+°Complet batch: 1 * 4
+incomplete batch: 1 * 0
+4 * 1 + 0
+ 4
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-4&departement=74&minCreationDate=2025-04-27T10:40:06Z&maxCreationDate=2025-04-28T10:40:06Z
+Iteration 62
+
+statust 200
+
+°Total size: 9
+°Range: 8
+°Complet batch: 1 * 8
+incomplete batch: 1 * 0
+8 * 1 + 0
+ 8
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-8&departement=74&minCreationDate=2025-04-26T10:40:06Z&maxCreationDate=2025-04-27T10:40:06Z
+Iteration 63
+
+statust 200
+
+°Total size: 44
+°Range: 43
+°Complet batch: 1 * 43
+incomplete batch: 1 * 0
+43 * 1 + 0
+ 43
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-43&departement=74&minCreationDate=2025-04-25T10:40:06Z&maxCreationDate=2025-04-26T10:40:06Z
+Iteration 64
+
+statust 200
+
+°Total size: 31
+°Range: 30
+°Complet batch: 1 * 30
+incomplete batch: 1 * 0
+30 * 1 + 0
+ 30
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-30&departement=74&minCreationDate=2025-04-24T10:40:06Z&maxCreationDate=2025-04-25T10:40:06Z
+Iteration 65
+
+statust 200
+
+°Total size: 26
+°Range: 25
+°Complet batch: 1 * 25
+incomplete batch: 1 * 0
+25 * 1 + 0
+ 25
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-25&departement=74&minCreationDate=2025-04-23T10:40:06Z&maxCreationDate=2025-04-24T10:40:06Z
+Iteration 66
+
+statust 200
+
+°Total size: 27
+°Range: 26
+°Complet batch: 1 * 26
+incomplete batch: 1 * 0
+26 * 1 + 0
+ 26
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-26&departement=74&minCreationDate=2025-04-22T10:40:06Z&maxCreationDate=2025-04-23T10:40:06Z
+Iteration 67
+
+statust 200
+
+°Total size: 10
+°Range: 9
+°Complet batch: 1 * 9
+incomplete batch: 1 * 0
+9 * 1 + 0
+ 9
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-9&departement=74&minCreationDate=2025-04-21T10:40:06Z&maxCreationDate=2025-04-22T10:40:06Z
+Iteration 68
+
+statust 200
+
+°Total size: 3
+°Range: 2
+°Complet batch: 1 * 2
+incomplete batch: 1 * 0
+2 * 1 + 0
+ 2
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-2&departement=74&minCreationDate=2025-04-20T10:40:06Z&maxCreationDate=2025-04-21T10:40:06Z
+Iteration 69
+
+statust 200
+
+°Total size: 9
+°Range: 8
+°Complet batch: 1 * 8
+incomplete batch: 1 * 0
+8 * 1 + 0
+ 8
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-8&departement=74&minCreationDate=2025-04-19T10:40:06Z&maxCreationDate=2025-04-20T10:40:06Z
+Iteration 70
+
+statust 200
+
+°Total size: 17
+°Range: 16
+°Complet batch: 1 * 16
+incomplete batch: 1 * 0
+16 * 1 + 0
+ 16
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-16&departement=74&minCreationDate=2025-04-18T10:40:06Z&maxCreationDate=2025-04-19T10:40:06Z
+Iteration 71
+
+statust 200
+
+°Total size: 29
+°Range: 28
+°Complet batch: 1 * 28
+incomplete batch: 1 * 0
+28 * 1 + 0
+ 28
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-28&departement=74&minCreationDate=2025-04-17T10:40:06Z&maxCreationDate=2025-04-18T10:40:06Z
+Iteration 72
+
+statust 200
+
+°Total size: 15
+°Range: 14
+°Complet batch: 1 * 14
+incomplete batch: 1 * 0
+14 * 1 + 0
+ 14
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-14&departement=74&minCreationDate=2025-04-16T10:40:06Z&maxCreationDate=2025-04-17T10:40:06Z
+Iteration 73
+
+statust 200
+
+°Total size: 35
+°Range: 34
+°Complet batch: 1 * 34
+incomplete batch: 1 * 0
+34 * 1 + 0
+ 34
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-34&departement=74&minCreationDate=2025-04-15T10:40:06Z&maxCreationDate=2025-04-16T10:40:06Z
+Iteration 74
+
+statust 200
+
+°Total size: 25
+°Range: 24
+°Complet batch: 1 * 24
+incomplete batch: 1 * 0
+24 * 1 + 0
+ 24
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-24&departement=74&minCreationDate=2025-04-14T10:40:06Z&maxCreationDate=2025-04-15T10:40:06Z
+Iteration 75
+
+statust 200
+
+°Total size: 7
+°Range: 6
+°Complet batch: 1 * 6
+incomplete batch: 1 * 0
+6 * 1 + 0
+ 6
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-6&departement=74&minCreationDate=2025-04-13T10:40:06Z&maxCreationDate=2025-04-14T10:40:06Z
+Iteration 76
+
+statust 200
+
+°Total size: 4
+°Range: 3
+°Complet batch: 1 * 3
+incomplete batch: 1 * 0
+3 * 1 + 0
+ 3
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-3&departement=74&minCreationDate=2025-04-12T10:40:06Z&maxCreationDate=2025-04-13T10:40:06Z
+Iteration 77
+
+statust 200
+
+°Total size: 20
+°Range: 19
+°Complet batch: 1 * 19
+incomplete batch: 1 * 0
+19 * 1 + 0
+ 19
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-19&departement=74&minCreationDate=2025-04-11T10:40:06Z&maxCreationDate=2025-04-12T10:40:06Z
+Iteration 78
+
+statust 200
+
+°Total size: 18
+°Range: 17
+°Complet batch: 1 * 17
+incomplete batch: 1 * 0
+17 * 1 + 0
+ 17
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-17&departement=74&minCreationDate=2025-04-10T10:40:06Z&maxCreationDate=2025-04-11T10:40:06Z
+Iteration 79
+
+statust 200
+
+°Total size: 20
+°Range: 19
+°Complet batch: 1 * 19
+incomplete batch: 1 * 0
+19 * 1 + 0
+ 19
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-19&departement=74&minCreationDate=2025-04-09T10:40:06Z&maxCreationDate=2025-04-10T10:40:06Z
+Iteration 80
+
+statust 200
+
+°Total size: 22
+°Range: 21
+°Complet batch: 1 * 21
+incomplete batch: 1 * 0
+21 * 1 + 0
+ 21
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-21&departement=74&minCreationDate=2025-04-08T10:40:06Z&maxCreationDate=2025-04-09T10:40:06Z
+Iteration 81
+
+statust 200
+
+°Total size: 15
+°Range: 14
+°Complet batch: 1 * 14
+incomplete batch: 1 * 0
+14 * 1 + 0
+ 14
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-14&departement=74&minCreationDate=2025-04-07T10:40:06Z&maxCreationDate=2025-04-08T10:40:06Z
+Iteration 82
+
+statust 200
+
+°Total size: 4
+°Range: 3
+°Complet batch: 1 * 3
+incomplete batch: 1 * 0
+3 * 1 + 0
+ 3
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-3&departement=74&minCreationDate=2025-04-06T10:40:06Z&maxCreationDate=2025-04-07T10:40:06Z
+Iteration 83
+
+statust 200
+
+°Total size: 18
+°Range: 17
+°Complet batch: 1 * 17
+incomplete batch: 1 * 0
+17 * 1 + 0
+ 17
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-17&departement=74&minCreationDate=2025-04-05T10:40:06Z&maxCreationDate=2025-04-06T10:40:06Z
+Iteration 84
+
+statust 200
+
+°Total size: 7
+°Range: 6
+°Complet batch: 1 * 6
+incomplete batch: 1 * 0
+6 * 1 + 0
+ 6
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-6&departement=74&minCreationDate=2025-04-04T10:40:06Z&maxCreationDate=2025-04-05T10:40:06Z
+Iteration 85
+
+statust 200
+
+°Total size: 16
+°Range: 15
+°Complet batch: 1 * 15
+incomplete batch: 1 * 0
+15 * 1 + 0
+ 15
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-15&departement=74&minCreationDate=2025-04-03T10:40:06Z&maxCreationDate=2025-04-04T10:40:06Z
+Iteration 86
+
+statust 200
+
+°Total size: 20
+°Range: 19
+°Complet batch: 1 * 19
+incomplete batch: 1 * 0
+19 * 1 + 0
+ 19
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-19&departement=74&minCreationDate=2025-04-02T10:40:06Z&maxCreationDate=2025-04-03T10:40:06Z
+Iteration 87
+
+statust 200
+
+°Total size: 17
+°Range: 16
+°Complet batch: 1 * 16
+incomplete batch: 1 * 0
+16 * 1 + 0
+ 16
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-16&departement=74&minCreationDate=2025-04-01T10:40:06Z&maxCreationDate=2025-04-02T10:40:06Z
+Iteration 88
+
+statust 200
+
+°Total size: 5
+°Range: 4
+°Complet batch: 1 * 4
+incomplete batch: 1 * 0
+4 * 1 + 0
+ 4
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-4&departement=74&minCreationDate=2025-03-31T10:40:06Z&maxCreationDate=2025-04-01T10:40:06Z
+Iteration 89
+
+statust 200
+
+°Total size: 4
+°Range: 3
+°Complet batch: 1 * 3
+incomplete batch: 1 * 0
+3 * 1 + 0
+ 3
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-3&departement=74&minCreationDate=2025-03-30T10:40:06Z&maxCreationDate=2025-03-31T10:40:06Z
+Iteration 90
+
+statust 200
+
+°Total size: 7
+°Range: 6
+°Complet batch: 1 * 6
+incomplete batch: 1 * 0
+6 * 1 + 0
+ 6
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-6&departement=74&minCreationDate=2025-03-29T11:40:06Z&maxCreationDate=2025-03-30T10:40:06Z
+Iteration 91
+
+statust 200
+
+°Total size: 5
+°Range: 4
+°Complet batch: 1 * 4
+incomplete batch: 1 * 0
+4 * 1 + 0
+ 4
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-4&departement=74&minCreationDate=2025-03-28T11:40:06Z&maxCreationDate=2025-03-29T11:40:06Z
+Iteration 92
+
+statust 200
+
+°Total size: 13
+°Range: 12
+°Complet batch: 1 * 12
+incomplete batch: 1 * 0
+12 * 1 + 0
+ 12
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-12&departement=74&minCreationDate=2025-03-27T11:40:06Z&maxCreationDate=2025-03-28T11:40:06Z
+Iteration 93
+
+statust 200
+
+°Total size: 17
+°Range: 16
+°Complet batch: 1 * 16
+incomplete batch: 1 * 0
+16 * 1 + 0
+ 16
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-16&departement=74&minCreationDate=2025-03-26T11:40:06Z&maxCreationDate=2025-03-27T11:40:06Z
+Iteration 94
+
+statust 200
+
+°Total size: 28
+°Range: 27
+°Complet batch: 1 * 27
+incomplete batch: 1 * 0
+27 * 1 + 0
+ 27
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-27&departement=74&minCreationDate=2025-03-25T11:40:06Z&maxCreationDate=2025-03-26T11:40:06Z
+Iteration 95
+
+statust 200
+
+°Total size: 12
+°Range: 11
+°Complet batch: 1 * 11
+incomplete batch: 1 * 0
+11 * 1 + 0
+ 11
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-11&departement=74&minCreationDate=2025-03-24T11:40:06Z&maxCreationDate=2025-03-25T11:40:06Z
+Iteration 96
+
+statust 200
+
+°Total size: 3
+°Range: 2
+°Complet batch: 1 * 2
+incomplete batch: 1 * 0
+2 * 1 + 0
+ 2
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-2&departement=74&minCreationDate=2025-03-23T11:40:06Z&maxCreationDate=2025-03-24T11:40:06Z
+Iteration 97
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-03-22T11:40:06Z&maxCreationDate=2025-03-23T11:40:06Z
+Iteration 98
+
+statust 200
+
+°Total size: 3
+°Range: 2
+°Complet batch: 1 * 2
+incomplete batch: 1 * 0
+2 * 1 + 0
+ 2
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-2&departement=74&minCreationDate=2025-03-21T11:40:06Z&maxCreationDate=2025-03-22T11:40:06Z
+Iteration 99
+
+statust 200
+
+°Total size: 8
+°Range: 7
+°Complet batch: 1 * 7
+incomplete batch: 1 * 0
+7 * 1 + 0
+ 7
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-7&departement=74&minCreationDate=2025-03-20T11:40:06Z&maxCreationDate=2025-03-21T11:40:06Z
+Iteration 100
+
+statust 200
+
+°Total size: 17
+°Range: 16
+°Complet batch: 1 * 16
+incomplete batch: 1 * 0
+16 * 1 + 0
+ 16
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-16&departement=74&minCreationDate=2025-03-19T11:40:06Z&maxCreationDate=2025-03-20T11:40:06Z
+Iteration 101
+
+statust 200
+
+°Total size: 15
+°Range: 14
+°Complet batch: 1 * 14
+incomplete batch: 1 * 0
+14 * 1 + 0
+ 14
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-14&departement=74&minCreationDate=2025-03-18T11:40:06Z&maxCreationDate=2025-03-19T11:40:06Z
+Iteration 102
+
+statust 200
+
+°Total size: 5
+°Range: 4
+°Complet batch: 1 * 4
+incomplete batch: 1 * 0
+4 * 1 + 0
+ 4
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-4&departement=74&minCreationDate=2025-03-17T11:40:06Z&maxCreationDate=2025-03-18T11:40:06Z
+Iteration 103
+
+statust 200
+
+°Total size: 4
+°Range: 3
+°Complet batch: 1 * 3
+incomplete batch: 1 * 0
+3 * 1 + 0
+ 3
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-3&departement=74&minCreationDate=2025-03-16T11:40:06Z&maxCreationDate=2025-03-17T11:40:06Z
+Iteration 104
+
+statust 200
+
+°Total size: 4
+°Range: 3
+°Complet batch: 1 * 3
+incomplete batch: 1 * 0
+3 * 1 + 0
+ 3
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-3&departement=74&minCreationDate=2025-03-15T11:40:06Z&maxCreationDate=2025-03-16T11:40:06Z
+Iteration 105
+
+statust 200
+
+°Total size: 12
+°Range: 11
+°Complet batch: 1 * 11
+incomplete batch: 1 * 0
+11 * 1 + 0
+ 11
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-11&departement=74&minCreationDate=2025-03-14T11:40:06Z&maxCreationDate=2025-03-15T11:40:06Z
+Iteration 106
+
+statust 200
+
+°Total size: 6
+°Range: 5
+°Complet batch: 1 * 5
+incomplete batch: 1 * 0
+5 * 1 + 0
+ 5
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-5&departement=74&minCreationDate=2025-03-13T11:40:06Z&maxCreationDate=2025-03-14T11:40:06Z
+Iteration 107
+
+statust 200
+
+°Total size: 8
+°Range: 7
+°Complet batch: 1 * 7
+incomplete batch: 1 * 0
+7 * 1 + 0
+ 7
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-7&departement=74&minCreationDate=2025-03-12T11:40:06Z&maxCreationDate=2025-03-13T11:40:06Z
+Iteration 108
+
+statust 200
+
+°Total size: 16
+°Range: 15
+°Complet batch: 1 * 15
+incomplete batch: 1 * 0
+15 * 1 + 0
+ 15
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-15&departement=74&minCreationDate=2025-03-11T11:40:06Z&maxCreationDate=2025-03-12T11:40:06Z
+Iteration 109
+
+statust 200
+
+°Total size: 7
+°Range: 6
+°Complet batch: 1 * 6
+incomplete batch: 1 * 0
+6 * 1 + 0
+ 6
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-6&departement=74&minCreationDate=2025-03-10T11:40:06Z&maxCreationDate=2025-03-11T11:40:06Z
+Iteration 110
+
+statust 200
+
+°Total size: 2
+°Range: 1
+°Complet batch: 2 * 1
+incomplete batch: 1 * 0
+1 * 2 + 0
+ 2
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-1&departement=74&minCreationDate=2025-03-09T11:40:06Z&maxCreationDate=2025-03-10T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=2-3&departement=74&minCreationDate=2025-03-09T11:40:06Z&maxCreationDate=2025-03-10T11:40:06Z
+Iteration 111
+
+statust 200
+
+°Total size: 6
+°Range: 5
+°Complet batch: 1 * 5
+incomplete batch: 1 * 0
+5 * 1 + 0
+ 5
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-5&departement=74&minCreationDate=2025-03-08T11:40:06Z&maxCreationDate=2025-03-09T11:40:06Z
+Iteration 112
+
+statust 200
+
+°Total size: 4
+°Range: 3
+°Complet batch: 1 * 3
+incomplete batch: 1 * 0
+3 * 1 + 0
+ 3
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-3&departement=74&minCreationDate=2025-03-07T11:40:06Z&maxCreationDate=2025-03-08T11:40:06Z
+Iteration 113
+
+statust 200
+
+°Total size: 6
+°Range: 5
+°Complet batch: 1 * 5
+incomplete batch: 1 * 0
+5 * 1 + 0
+ 5
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-5&departement=74&minCreationDate=2025-03-06T11:40:06Z&maxCreationDate=2025-03-07T11:40:06Z
+Iteration 114
+
+statust 200
+
+°Total size: 6
+°Range: 5
+°Complet batch: 1 * 5
+incomplete batch: 1 * 0
+5 * 1 + 0
+ 5
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-5&departement=74&minCreationDate=2025-03-05T11:40:06Z&maxCreationDate=2025-03-06T11:40:06Z
+Iteration 115
+
+statust 200
+
+°Total size: 9
+°Range: 8
+°Complet batch: 1 * 8
+incomplete batch: 1 * 0
+8 * 1 + 0
+ 8
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-8&departement=74&minCreationDate=2025-03-04T11:40:06Z&maxCreationDate=2025-03-05T11:40:06Z
+Iteration 116
+
+statust 200
+
+°Total size: 7
+°Range: 6
+°Complet batch: 1 * 6
+incomplete batch: 1 * 0
+6 * 1 + 0
+ 6
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-6&departement=74&minCreationDate=2025-03-03T11:40:06Z&maxCreationDate=2025-03-04T11:40:06Z
+Iteration 117
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-03-02T11:40:06Z&maxCreationDate=2025-03-03T11:40:06Z
+Iteration 118
+
+statust 200
+
+°Total size: 3
+°Range: 2
+°Complet batch: 1 * 2
+incomplete batch: 1 * 0
+2 * 1 + 0
+ 2
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-2&departement=74&minCreationDate=2025-03-01T11:40:06Z&maxCreationDate=2025-03-02T11:40:06Z
+Iteration 119
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-02-28T11:40:06Z&maxCreationDate=2025-03-01T11:40:06Z
+Iteration 120
+
+statust 200
+
+°Total size: 7
+°Range: 6
+°Complet batch: 1 * 6
+incomplete batch: 1 * 0
+6 * 1 + 0
+ 6
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-6&departement=74&minCreationDate=2025-02-27T11:40:06Z&maxCreationDate=2025-02-28T11:40:06Z
+Iteration 121
+
+statust 200
+
+°Total size: 4
+°Range: 3
+°Complet batch: 1 * 3
+incomplete batch: 1 * 0
+3 * 1 + 0
+ 3
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-3&departement=74&minCreationDate=2025-02-26T11:40:06Z&maxCreationDate=2025-02-27T11:40:06Z
+Iteration 122
+
+statust 200
+
+°Total size: 13
+°Range: 12
+°Complet batch: 1 * 12
+incomplete batch: 1 * 0
+12 * 1 + 0
+ 12
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-12&departement=74&minCreationDate=2025-02-25T11:40:06Z&maxCreationDate=2025-02-26T11:40:06Z
+Iteration 123
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-02-24T11:40:06Z&maxCreationDate=2025-02-25T11:40:06Z
+Iteration 124
+
+statust 200
+
+°Total size: 3
+°Range: 2
+°Complet batch: 1 * 2
+incomplete batch: 1 * 0
+2 * 1 + 0
+ 2
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-2&departement=74&minCreationDate=2025-02-23T11:40:06Z&maxCreationDate=2025-02-24T11:40:06Z
+Iteration 125
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-02-22T11:40:06Z&maxCreationDate=2025-02-23T11:40:06Z
+Iteration 126
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-02-21T11:40:06Z&maxCreationDate=2025-02-22T11:40:06Z
+Iteration 127
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-02-20T11:40:06Z&maxCreationDate=2025-02-21T11:40:06Z
+Iteration 128
+
+statust 200
+
+°Total size: 4
+°Range: 3
+°Complet batch: 1 * 3
+incomplete batch: 1 * 0
+3 * 1 + 0
+ 3
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-3&departement=74&minCreationDate=2025-02-19T11:40:06Z&maxCreationDate=2025-02-20T11:40:06Z
+Iteration 129
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-02-18T11:40:06Z&maxCreationDate=2025-02-19T11:40:06Z
+Iteration 130
+
+statust 200
+
+°Total size: 8
+°Range: 7
+°Complet batch: 1 * 7
+incomplete batch: 1 * 0
+7 * 1 + 0
+ 7
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-7&departement=74&minCreationDate=2025-02-17T11:40:06Z&maxCreationDate=2025-02-18T11:40:06Z
+Iteration 131
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-02-16T11:40:06Z&maxCreationDate=2025-02-17T11:40:06Z
+Iteration 132
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-02-15T11:40:06Z&maxCreationDate=2025-02-16T11:40:06Z
+Iteration 133
+
+statust 200
+
+°Total size: 2
+°Range: 1
+°Complet batch: 2 * 1
+incomplete batch: 1 * 0
+1 * 2 + 0
+ 2
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-1&departement=74&minCreationDate=2025-02-14T11:40:06Z&maxCreationDate=2025-02-15T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=2-3&departement=74&minCreationDate=2025-02-14T11:40:06Z&maxCreationDate=2025-02-15T11:40:06Z
+Iteration 134
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 2 * 0
+incomplete batch: 1 * 0
+0 * 2 + 0
+ 0
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-02-13T11:40:06Z&maxCreationDate=2025-02-14T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=1-1&departement=74&minCreationDate=2025-02-13T11:40:06Z&maxCreationDate=2025-02-14T11:40:06Z
+Iteration 135
+
+statust 200
+
+°Total size: 7
+°Range: 6
+°Complet batch: 1 * 6
+incomplete batch: 1 * 0
+6 * 1 + 0
+ 6
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-6&departement=74&minCreationDate=2025-02-12T11:40:06Z&maxCreationDate=2025-02-13T11:40:06Z
+Iteration 136
+
+statust 200
+
+°Total size: 6
+°Range: 5
+°Complet batch: 1 * 5
+incomplete batch: 1 * 0
+5 * 1 + 0
+ 5
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-5&departement=74&minCreationDate=2025-02-11T11:40:06Z&maxCreationDate=2025-02-12T11:40:06Z
+Iteration 137
+
+statust 200
+
+°Total size: 3
+°Range: 2
+°Complet batch: 1 * 2
+incomplete batch: 1 * 0
+2 * 1 + 0
+ 2
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-2&departement=74&minCreationDate=2025-02-10T11:40:06Z&maxCreationDate=2025-02-11T11:40:06Z
+Iteration 138
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-02-09T11:40:06Z&maxCreationDate=2025-02-10T11:40:06Z
+Iteration 139
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-02-08T11:40:06Z&maxCreationDate=2025-02-09T11:40:06Z
+Iteration 140
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-02-07T11:40:06Z&maxCreationDate=2025-02-08T11:40:06Z
+Iteration 141
+
+statust 200
+
+°Total size: 4
+°Range: 3
+°Complet batch: 1 * 3
+incomplete batch: 1 * 0
+3 * 1 + 0
+ 3
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-3&departement=74&minCreationDate=2025-02-06T11:40:06Z&maxCreationDate=2025-02-07T11:40:06Z
+Iteration 142
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-02-05T11:40:06Z&maxCreationDate=2025-02-06T11:40:06Z
+Iteration 143
+
+statust 200
+
+°Total size: 4
+°Range: 3
+°Complet batch: 1 * 3
+incomplete batch: 1 * 0
+3 * 1 + 0
+ 3
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-3&departement=74&minCreationDate=2025-02-04T11:40:06Z&maxCreationDate=2025-02-05T11:40:06Z
+Iteration 144
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-02-03T11:40:06Z&maxCreationDate=2025-02-04T11:40:06Z
+Iteration 145
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-02-02T11:40:06Z&maxCreationDate=2025-02-03T11:40:06Z
+Iteration 146
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-02-01T11:40:06Z&maxCreationDate=2025-02-02T11:40:06Z
+Iteration 147
+
+statust 200
+
+°Total size: 2
+°Range: 1
+°Complet batch: 2 * 1
+incomplete batch: 1 * 0
+1 * 2 + 0
+ 2
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-1&departement=74&minCreationDate=2025-01-31T11:40:06Z&maxCreationDate=2025-02-01T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=2-3&departement=74&minCreationDate=2025-01-31T11:40:06Z&maxCreationDate=2025-02-01T11:40:06Z
+Iteration 148
+
+statust 200
+
+°Total size: 9
+°Range: 8
+°Complet batch: 1 * 8
+incomplete batch: 1 * 0
+8 * 1 + 0
+ 8
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-8&departement=74&minCreationDate=2025-01-30T11:40:06Z&maxCreationDate=2025-01-31T11:40:06Z
+Iteration 149
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-01-29T11:40:06Z&maxCreationDate=2025-01-30T11:40:06Z
+Iteration 150
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-01-28T11:40:06Z&maxCreationDate=2025-01-29T11:40:06Z
+Iteration 151
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-01-27T11:40:06Z&maxCreationDate=2025-01-28T11:40:06Z
+Iteration 152
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-01-26T11:40:06Z&maxCreationDate=2025-01-27T11:40:06Z
+Iteration 153
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-01-25T11:40:06Z&maxCreationDate=2025-01-26T11:40:06Z
+Iteration 154
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-01-24T11:40:06Z&maxCreationDate=2025-01-25T11:40:06Z
+Iteration 155
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-01-23T11:40:06Z&maxCreationDate=2025-01-24T11:40:06Z
+Iteration 156
+
+statust 200
+
+°Total size: 3
+°Range: 2
+°Complet batch: 1 * 2
+incomplete batch: 1 * 0
+2 * 1 + 0
+ 2
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-2&departement=74&minCreationDate=2025-01-22T11:40:06Z&maxCreationDate=2025-01-23T11:40:06Z
+Iteration 157
+
+statust 200
+
+°Total size: 2
+°Range: 1
+°Complet batch: 2 * 1
+incomplete batch: 1 * 0
+1 * 2 + 0
+ 2
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-1&departement=74&minCreationDate=2025-01-21T11:40:06Z&maxCreationDate=2025-01-22T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=2-3&departement=74&minCreationDate=2025-01-21T11:40:06Z&maxCreationDate=2025-01-22T11:40:06Z
+Iteration 158
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 2 * 0
+incomplete batch: 1 * 0
+0 * 2 + 0
+ 0
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-01-20T11:40:06Z&maxCreationDate=2025-01-21T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=1-1&departement=74&minCreationDate=2025-01-20T11:40:06Z&maxCreationDate=2025-01-21T11:40:06Z
+Iteration 159
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-01-19T11:40:06Z&maxCreationDate=2025-01-20T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2025-01-19T11:40:06Z&maxCreationDate=2025-01-20T11:40:06Z
+Iteration 160
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-01-18T11:40:06Z&maxCreationDate=2025-01-19T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2025-01-18T11:40:06Z&maxCreationDate=2025-01-19T11:40:06Z
+Iteration 161
+
+statust 200
+
+°Total size: 3
+°Range: 2
+°Complet batch: 1 * 2
+incomplete batch: 1 * 0
+2 * 1 + 0
+ 2
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-2&departement=74&minCreationDate=2025-01-17T11:40:06Z&maxCreationDate=2025-01-18T11:40:06Z
+Iteration 162
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-01-16T11:40:06Z&maxCreationDate=2025-01-17T11:40:06Z
+Iteration 163
+
+statust 200
+
+°Total size: 2
+°Range: 1
+°Complet batch: 2 * 1
+incomplete batch: 1 * 0
+1 * 2 + 0
+ 2
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-1&departement=74&minCreationDate=2025-01-15T11:40:06Z&maxCreationDate=2025-01-16T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=2-3&departement=74&minCreationDate=2025-01-15T11:40:06Z&maxCreationDate=2025-01-16T11:40:06Z
+Iteration 164
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 2 * 0
+incomplete batch: 1 * 0
+0 * 2 + 0
+ 0
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-01-14T11:40:06Z&maxCreationDate=2025-01-15T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=1-1&departement=74&minCreationDate=2025-01-14T11:40:06Z&maxCreationDate=2025-01-15T11:40:06Z
+Iteration 165
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 2 * 0
+incomplete batch: 1 * 0
+0 * 2 + 0
+ 0
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-01-13T11:40:06Z&maxCreationDate=2025-01-14T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=1-1&departement=74&minCreationDate=2025-01-13T11:40:06Z&maxCreationDate=2025-01-14T11:40:06Z
+Iteration 166
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-01-12T11:40:06Z&maxCreationDate=2025-01-13T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2025-01-12T11:40:06Z&maxCreationDate=2025-01-13T11:40:06Z
+Iteration 167
+
+statust 200
+
+°Total size: 2
+°Range: 1
+°Complet batch: 2 * 1
+incomplete batch: 1 * 0
+1 * 2 + 0
+ 2
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-1&departement=74&minCreationDate=2025-01-11T11:40:06Z&maxCreationDate=2025-01-12T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=2-3&departement=74&minCreationDate=2025-01-11T11:40:06Z&maxCreationDate=2025-01-12T11:40:06Z
+Iteration 168
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-01-10T11:40:06Z&maxCreationDate=2025-01-11T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2025-01-10T11:40:06Z&maxCreationDate=2025-01-11T11:40:06Z
+Iteration 169
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 2 * 0
+incomplete batch: 1 * 0
+0 * 2 + 0
+ 0
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2025-01-09T11:40:06Z&maxCreationDate=2025-01-10T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=1-1&departement=74&minCreationDate=2025-01-09T11:40:06Z&maxCreationDate=2025-01-10T11:40:06Z
+Iteration 170
+
+statust 200
+
+°Total size: 4
+°Range: 3
+°Complet batch: 1 * 3
+incomplete batch: 1 * 0
+3 * 1 + 0
+ 3
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-3&departement=74&minCreationDate=2025-01-08T11:40:06Z&maxCreationDate=2025-01-09T11:40:06Z
+Iteration 171
+
+statust 200
+
+°Total size: 2
+°Range: 1
+°Complet batch: 2 * 1
+incomplete batch: 1 * 0
+1 * 2 + 0
+ 2
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-1&departement=74&minCreationDate=2025-01-07T11:40:06Z&maxCreationDate=2025-01-08T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=2-3&departement=74&minCreationDate=2025-01-07T11:40:06Z&maxCreationDate=2025-01-08T11:40:06Z
+Iteration 172
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-01-06T11:40:06Z&maxCreationDate=2025-01-07T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2025-01-06T11:40:06Z&maxCreationDate=2025-01-07T11:40:06Z
+Iteration 173
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-01-05T11:40:06Z&maxCreationDate=2025-01-06T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2025-01-05T11:40:06Z&maxCreationDate=2025-01-06T11:40:06Z
+Iteration 174
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-01-04T11:40:06Z&maxCreationDate=2025-01-05T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2025-01-04T11:40:06Z&maxCreationDate=2025-01-05T11:40:06Z
+Iteration 175
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-01-03T11:40:06Z&maxCreationDate=2025-01-04T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2025-01-03T11:40:06Z&maxCreationDate=2025-01-04T11:40:06Z
+Iteration 176
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-01-02T11:40:06Z&maxCreationDate=2025-01-03T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2025-01-02T11:40:06Z&maxCreationDate=2025-01-03T11:40:06Z
+Iteration 177
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2025-01-01T11:40:06Z&maxCreationDate=2025-01-02T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2025-01-01T11:40:06Z&maxCreationDate=2025-01-02T11:40:06Z
+Iteration 178
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-31T11:40:06Z&maxCreationDate=2025-01-01T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-12-31T11:40:06Z&maxCreationDate=2025-01-01T11:40:06Z
+Iteration 179
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-30T11:40:06Z&maxCreationDate=2024-12-31T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-12-30T11:40:06Z&maxCreationDate=2024-12-31T11:40:06Z
+Iteration 180
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-29T11:40:06Z&maxCreationDate=2024-12-30T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-12-29T11:40:06Z&maxCreationDate=2024-12-30T11:40:06Z
+Iteration 181
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-28T11:40:06Z&maxCreationDate=2024-12-29T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-12-28T11:40:06Z&maxCreationDate=2024-12-29T11:40:06Z
+Iteration 182
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-27T11:40:06Z&maxCreationDate=2024-12-28T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-12-27T11:40:06Z&maxCreationDate=2024-12-28T11:40:06Z
+Iteration 183
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 2 * 0
+incomplete batch: 1 * 0
+0 * 2 + 0
+ 0
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-12-26T11:40:06Z&maxCreationDate=2024-12-27T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=1-1&departement=74&minCreationDate=2024-12-26T11:40:06Z&maxCreationDate=2024-12-27T11:40:06Z
+Iteration 184
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-25T11:40:06Z&maxCreationDate=2024-12-26T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-12-25T11:40:06Z&maxCreationDate=2024-12-26T11:40:06Z
+Iteration 185
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-24T11:40:06Z&maxCreationDate=2024-12-25T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-12-24T11:40:06Z&maxCreationDate=2024-12-25T11:40:06Z
+Iteration 186
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 2 * 0
+incomplete batch: 1 * 0
+0 * 2 + 0
+ 0
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-12-23T11:40:06Z&maxCreationDate=2024-12-24T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=1-1&departement=74&minCreationDate=2024-12-23T11:40:06Z&maxCreationDate=2024-12-24T11:40:06Z
+Iteration 187
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-22T11:40:06Z&maxCreationDate=2024-12-23T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-12-22T11:40:06Z&maxCreationDate=2024-12-23T11:40:06Z
+Iteration 188
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-21T11:40:06Z&maxCreationDate=2024-12-22T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-12-21T11:40:06Z&maxCreationDate=2024-12-22T11:40:06Z
+Iteration 189
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-20T11:40:06Z&maxCreationDate=2024-12-21T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-12-20T11:40:06Z&maxCreationDate=2024-12-21T11:40:06Z
+Iteration 190
+
+statust 200
+
+°Total size: 6
+°Range: 5
+°Complet batch: 1 * 5
+incomplete batch: 1 * 0
+5 * 1 + 0
+ 5
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-5&departement=74&minCreationDate=2024-12-19T11:40:06Z&maxCreationDate=2024-12-20T11:40:06Z
+Iteration 191
+
+statust 200
+
+°Total size: 2
+°Range: 1
+°Complet batch: 2 * 1
+incomplete batch: 1 * 0
+1 * 2 + 0
+ 2
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-1&departement=74&minCreationDate=2024-12-18T11:40:06Z&maxCreationDate=2024-12-19T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=2-3&departement=74&minCreationDate=2024-12-18T11:40:06Z&maxCreationDate=2024-12-19T11:40:06Z
+Iteration 192
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-17T11:40:06Z&maxCreationDate=2024-12-18T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-12-17T11:40:06Z&maxCreationDate=2024-12-18T11:40:06Z
+Iteration 193
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-16T11:40:06Z&maxCreationDate=2024-12-17T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-12-16T11:40:06Z&maxCreationDate=2024-12-17T11:40:06Z
+Iteration 194
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-15T11:40:06Z&maxCreationDate=2024-12-16T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-12-15T11:40:06Z&maxCreationDate=2024-12-16T11:40:06Z
+Iteration 195
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-14T11:40:06Z&maxCreationDate=2024-12-15T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-12-14T11:40:06Z&maxCreationDate=2024-12-15T11:40:06Z
+Iteration 196
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-13T11:40:06Z&maxCreationDate=2024-12-14T11:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-12-13T11:40:06Z&maxCreationDate=2024-12-14T11:40:06Z
+Iteration 197
+
+statust 200
+
+°Total size: 3
+°Range: 2
+°Complet batch: 1 * 2
+incomplete batch: 1 * 0
+2 * 1 + 0
+ 2
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-2&departement=74&minCreationDate=2024-12-12T11:40:06Z&maxCreationDate=2024-12-13T11:40:06Z
+Iteration 198
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-11T11:40:06Z&maxCreationDate=2024-12-12T11:40:06Z
+Iteration 199
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-12-10T11:40:06Z&maxCreationDate=2024-12-11T11:40:06Z
+Iteration 200
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-12-09T11:40:06Z&maxCreationDate=2024-12-10T11:40:06Z
+Iteration 201
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-08T11:40:06Z&maxCreationDate=2024-12-09T11:40:06Z
+Iteration 202
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-07T11:40:06Z&maxCreationDate=2024-12-08T11:40:06Z
+Iteration 203
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-06T11:40:06Z&maxCreationDate=2024-12-07T11:40:06Z
+Iteration 204
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-12-05T11:40:06Z&maxCreationDate=2024-12-06T11:40:06Z
+Iteration 205
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-12-04T11:40:06Z&maxCreationDate=2024-12-05T11:40:06Z
+Iteration 206
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-03T11:40:06Z&maxCreationDate=2024-12-04T11:40:06Z
+Iteration 207
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-02T11:40:06Z&maxCreationDate=2024-12-03T11:40:06Z
+Iteration 208
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-12-01T11:40:06Z&maxCreationDate=2024-12-02T11:40:06Z
+Iteration 209
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-30T11:40:06Z&maxCreationDate=2024-12-01T11:40:06Z
+Iteration 210
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-11-29T11:40:06Z&maxCreationDate=2024-11-30T11:40:06Z
+Iteration 211
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-28T11:40:06Z&maxCreationDate=2024-11-29T11:40:06Z
+Iteration 212
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-11-27T11:40:06Z&maxCreationDate=2024-11-28T11:40:06Z
+Iteration 213
+
+statust 200
+
+°Total size: 5
+°Range: 4
+°Complet batch: 1 * 4
+incomplete batch: 1 * 0
+4 * 1 + 0
+ 4
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-4&departement=74&minCreationDate=2024-11-26T11:40:06Z&maxCreationDate=2024-11-27T11:40:06Z
+Iteration 214
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-11-25T11:40:06Z&maxCreationDate=2024-11-26T11:40:06Z
+Iteration 215
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-24T11:40:06Z&maxCreationDate=2024-11-25T11:40:06Z
+Iteration 216
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-23T11:40:06Z&maxCreationDate=2024-11-24T11:40:06Z
+Iteration 217
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-22T11:40:06Z&maxCreationDate=2024-11-23T11:40:06Z
+Iteration 218
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-21T11:40:06Z&maxCreationDate=2024-11-22T11:40:06Z
+Iteration 219
+
+statust 200
+
+°Total size: 3
+°Range: 2
+°Complet batch: 1 * 2
+incomplete batch: 1 * 0
+2 * 1 + 0
+ 2
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-2&departement=74&minCreationDate=2024-11-20T11:40:06Z&maxCreationDate=2024-11-21T11:40:06Z
+Iteration 220
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-19T11:40:06Z&maxCreationDate=2024-11-20T11:40:06Z
+Iteration 221
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-18T11:40:06Z&maxCreationDate=2024-11-19T11:40:06Z
+Iteration 222
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-17T11:40:06Z&maxCreationDate=2024-11-18T11:40:06Z
+Iteration 223
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-16T11:40:06Z&maxCreationDate=2024-11-17T11:40:06Z
+Iteration 224
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-11-15T11:40:06Z&maxCreationDate=2024-11-16T11:40:06Z
+Iteration 225
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-11-14T11:40:06Z&maxCreationDate=2024-11-15T11:40:06Z
+Iteration 226
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-13T11:40:06Z&maxCreationDate=2024-11-14T11:40:06Z
+Iteration 227
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-11-12T11:40:06Z&maxCreationDate=2024-11-13T11:40:06Z
+Iteration 228
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-11T11:40:06Z&maxCreationDate=2024-11-12T11:40:06Z
+Iteration 229
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-10T11:40:06Z&maxCreationDate=2024-11-11T11:40:06Z
+Iteration 230
+
+statust 200
+
+°Total size: 6
+°Range: 5
+°Complet batch: 1 * 5
+incomplete batch: 1 * 0
+5 * 1 + 0
+ 5
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-5&departement=74&minCreationDate=2024-11-09T11:40:06Z&maxCreationDate=2024-11-10T11:40:06Z
+Iteration 231
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-08T11:40:06Z&maxCreationDate=2024-11-09T11:40:06Z
+Iteration 232
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-11-07T11:40:06Z&maxCreationDate=2024-11-08T11:40:06Z
+Iteration 233
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-11-06T11:40:06Z&maxCreationDate=2024-11-07T11:40:06Z
+Iteration 234
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-05T11:40:06Z&maxCreationDate=2024-11-06T11:40:06Z
+Iteration 235
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-04T11:40:06Z&maxCreationDate=2024-11-05T11:40:06Z
+Iteration 236
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-11-03T11:40:06Z&maxCreationDate=2024-11-04T11:40:06Z
+Iteration 237
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-02T11:40:06Z&maxCreationDate=2024-11-03T11:40:06Z
+Iteration 238
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-11-01T11:40:06Z&maxCreationDate=2024-11-02T11:40:06Z
+Iteration 239
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-31T11:40:06Z&maxCreationDate=2024-11-01T11:40:06Z
+Iteration 240
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-30T11:40:06Z&maxCreationDate=2024-10-31T11:40:06Z
+Iteration 241
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-29T11:40:06Z&maxCreationDate=2024-10-30T11:40:06Z
+Iteration 242
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-10-28T11:40:06Z&maxCreationDate=2024-10-29T11:40:06Z
+Iteration 243
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-27T11:40:06Z&maxCreationDate=2024-10-28T11:40:06Z
+Iteration 244
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-26T10:40:06Z&maxCreationDate=2024-10-27T11:40:06Z
+Iteration 245
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-25T10:40:06Z&maxCreationDate=2024-10-26T10:40:06Z
+Iteration 246
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-10-24T10:40:06Z&maxCreationDate=2024-10-25T10:40:06Z
+Iteration 247
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-23T10:40:06Z&maxCreationDate=2024-10-24T10:40:06Z
+Iteration 248
+
+statust 200
+
+°Total size: 2
+°Range: 1
+°Complet batch: 2 * 1
+incomplete batch: 1 * 0
+1 * 2 + 0
+ 2
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-1&departement=74&minCreationDate=2024-10-22T10:40:06Z&maxCreationDate=2024-10-23T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=2-3&departement=74&minCreationDate=2024-10-22T10:40:06Z&maxCreationDate=2024-10-23T10:40:06Z
+Iteration 249
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-21T10:40:06Z&maxCreationDate=2024-10-22T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-21T10:40:06Z&maxCreationDate=2024-10-22T10:40:06Z
+Iteration 250
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-20T10:40:06Z&maxCreationDate=2024-10-21T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-20T10:40:06Z&maxCreationDate=2024-10-21T10:40:06Z
+Iteration 251
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-19T10:40:06Z&maxCreationDate=2024-10-20T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-19T10:40:06Z&maxCreationDate=2024-10-20T10:40:06Z
+Iteration 252
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-18T10:40:06Z&maxCreationDate=2024-10-19T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-18T10:40:06Z&maxCreationDate=2024-10-19T10:40:06Z
+Iteration 253
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 2 * 0
+incomplete batch: 1 * 0
+0 * 2 + 0
+ 0
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-10-17T10:40:06Z&maxCreationDate=2024-10-18T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=1-1&departement=74&minCreationDate=2024-10-17T10:40:06Z&maxCreationDate=2024-10-18T10:40:06Z
+Iteration 254
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-16T10:40:06Z&maxCreationDate=2024-10-17T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-16T10:40:06Z&maxCreationDate=2024-10-17T10:40:06Z
+Iteration 255
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-15T10:40:06Z&maxCreationDate=2024-10-16T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-15T10:40:06Z&maxCreationDate=2024-10-16T10:40:06Z
+Iteration 256
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-14T10:40:06Z&maxCreationDate=2024-10-15T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-14T10:40:06Z&maxCreationDate=2024-10-15T10:40:06Z
+Iteration 257
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-13T10:40:06Z&maxCreationDate=2024-10-14T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-13T10:40:06Z&maxCreationDate=2024-10-14T10:40:06Z
+Iteration 258
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-12T10:40:06Z&maxCreationDate=2024-10-13T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-12T10:40:06Z&maxCreationDate=2024-10-13T10:40:06Z
+Iteration 259
+
+statust 200
+
+°Total size: 2
+°Range: 1
+°Complet batch: 2 * 1
+incomplete batch: 1 * 0
+1 * 2 + 0
+ 2
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-1&departement=74&minCreationDate=2024-10-11T10:40:06Z&maxCreationDate=2024-10-12T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=2-3&departement=74&minCreationDate=2024-10-11T10:40:06Z&maxCreationDate=2024-10-12T10:40:06Z
+Iteration 260
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-10T10:40:06Z&maxCreationDate=2024-10-11T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-10T10:40:06Z&maxCreationDate=2024-10-11T10:40:06Z
+Iteration 261
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-09T10:40:06Z&maxCreationDate=2024-10-10T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-09T10:40:06Z&maxCreationDate=2024-10-10T10:40:06Z
+Iteration 262
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 2 * 0
+incomplete batch: 1 * 0
+0 * 2 + 0
+ 0
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-10-08T10:40:06Z&maxCreationDate=2024-10-09T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=1-1&departement=74&minCreationDate=2024-10-08T10:40:06Z&maxCreationDate=2024-10-09T10:40:06Z
+Iteration 263
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-07T10:40:06Z&maxCreationDate=2024-10-08T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-07T10:40:06Z&maxCreationDate=2024-10-08T10:40:06Z
+Iteration 264
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-06T10:40:06Z&maxCreationDate=2024-10-07T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-06T10:40:06Z&maxCreationDate=2024-10-07T10:40:06Z
+Iteration 265
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 2 * 0
+incomplete batch: 1 * 0
+0 * 2 + 0
+ 0
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-10-05T10:40:06Z&maxCreationDate=2024-10-06T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=1-1&departement=74&minCreationDate=2024-10-05T10:40:06Z&maxCreationDate=2024-10-06T10:40:06Z
+Iteration 266
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-04T10:40:06Z&maxCreationDate=2024-10-05T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-04T10:40:06Z&maxCreationDate=2024-10-05T10:40:06Z
+Iteration 267
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-03T10:40:06Z&maxCreationDate=2024-10-04T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-03T10:40:06Z&maxCreationDate=2024-10-04T10:40:06Z
+Iteration 268
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-02T10:40:06Z&maxCreationDate=2024-10-03T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-02T10:40:06Z&maxCreationDate=2024-10-03T10:40:06Z
+Iteration 269
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-10-01T10:40:06Z&maxCreationDate=2024-10-02T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-10-01T10:40:06Z&maxCreationDate=2024-10-02T10:40:06Z
+Iteration 270
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-30T10:40:06Z&maxCreationDate=2024-10-01T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-30T10:40:06Z&maxCreationDate=2024-10-01T10:40:06Z
+Iteration 271
+
+statust 200
+
+°Total size: 2
+°Range: 1
+°Complet batch: 2 * 1
+incomplete batch: 1 * 0
+1 * 2 + 0
+ 2
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-1&departement=74&minCreationDate=2024-09-29T10:40:06Z&maxCreationDate=2024-09-30T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=2-3&departement=74&minCreationDate=2024-09-29T10:40:06Z&maxCreationDate=2024-09-30T10:40:06Z
+Iteration 272
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-28T10:40:06Z&maxCreationDate=2024-09-29T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-28T10:40:06Z&maxCreationDate=2024-09-29T10:40:06Z
+Iteration 273
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-27T10:40:06Z&maxCreationDate=2024-09-28T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-27T10:40:06Z&maxCreationDate=2024-09-28T10:40:06Z
+Iteration 274
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-26T10:40:06Z&maxCreationDate=2024-09-27T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-26T10:40:06Z&maxCreationDate=2024-09-27T10:40:06Z
+Iteration 275
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-25T10:40:06Z&maxCreationDate=2024-09-26T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-25T10:40:06Z&maxCreationDate=2024-09-26T10:40:06Z
+Iteration 276
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-24T10:40:06Z&maxCreationDate=2024-09-25T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-24T10:40:06Z&maxCreationDate=2024-09-25T10:40:06Z
+Iteration 277
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-23T10:40:06Z&maxCreationDate=2024-09-24T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-23T10:40:06Z&maxCreationDate=2024-09-24T10:40:06Z
+Iteration 278
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-22T10:40:06Z&maxCreationDate=2024-09-23T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-22T10:40:06Z&maxCreationDate=2024-09-23T10:40:06Z
+Iteration 279
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-21T10:40:06Z&maxCreationDate=2024-09-22T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-21T10:40:06Z&maxCreationDate=2024-09-22T10:40:06Z
+Iteration 280
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 2 * 0
+incomplete batch: 1 * 0
+0 * 2 + 0
+ 0
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-09-20T10:40:06Z&maxCreationDate=2024-09-21T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=1-1&departement=74&minCreationDate=2024-09-20T10:40:06Z&maxCreationDate=2024-09-21T10:40:06Z
+Iteration 281
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-19T10:40:06Z&maxCreationDate=2024-09-20T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-19T10:40:06Z&maxCreationDate=2024-09-20T10:40:06Z
+Iteration 282
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-18T10:40:06Z&maxCreationDate=2024-09-19T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-18T10:40:06Z&maxCreationDate=2024-09-19T10:40:06Z
+Iteration 283
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-17T10:40:06Z&maxCreationDate=2024-09-18T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-17T10:40:06Z&maxCreationDate=2024-09-18T10:40:06Z
+Iteration 284
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-16T10:40:06Z&maxCreationDate=2024-09-17T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-16T10:40:06Z&maxCreationDate=2024-09-17T10:40:06Z
+Iteration 285
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-15T10:40:06Z&maxCreationDate=2024-09-16T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-15T10:40:06Z&maxCreationDate=2024-09-16T10:40:06Z
+Iteration 286
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-14T10:40:06Z&maxCreationDate=2024-09-15T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-14T10:40:06Z&maxCreationDate=2024-09-15T10:40:06Z
+Iteration 287
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-13T10:40:06Z&maxCreationDate=2024-09-14T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-13T10:40:06Z&maxCreationDate=2024-09-14T10:40:06Z
+Iteration 288
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-12T10:40:06Z&maxCreationDate=2024-09-13T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-12T10:40:06Z&maxCreationDate=2024-09-13T10:40:06Z
+Iteration 289
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-11T10:40:06Z&maxCreationDate=2024-09-12T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-11T10:40:06Z&maxCreationDate=2024-09-12T10:40:06Z
+Iteration 290
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-10T10:40:06Z&maxCreationDate=2024-09-11T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-10T10:40:06Z&maxCreationDate=2024-09-11T10:40:06Z
+Iteration 291
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-09T10:40:06Z&maxCreationDate=2024-09-10T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-09T10:40:06Z&maxCreationDate=2024-09-10T10:40:06Z
+Iteration 292
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-08T10:40:06Z&maxCreationDate=2024-09-09T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-08T10:40:06Z&maxCreationDate=2024-09-09T10:40:06Z
+Iteration 293
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-07T10:40:06Z&maxCreationDate=2024-09-08T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-07T10:40:06Z&maxCreationDate=2024-09-08T10:40:06Z
+Iteration 294
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-06T10:40:06Z&maxCreationDate=2024-09-07T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-06T10:40:06Z&maxCreationDate=2024-09-07T10:40:06Z
+Iteration 295
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-05T10:40:06Z&maxCreationDate=2024-09-06T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-05T10:40:06Z&maxCreationDate=2024-09-06T10:40:06Z
+Iteration 296
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-04T10:40:06Z&maxCreationDate=2024-09-05T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-04T10:40:06Z&maxCreationDate=2024-09-05T10:40:06Z
+Iteration 297
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-03T10:40:06Z&maxCreationDate=2024-09-04T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-03T10:40:06Z&maxCreationDate=2024-09-04T10:40:06Z
+Iteration 298
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-02T10:40:06Z&maxCreationDate=2024-09-03T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-02T10:40:06Z&maxCreationDate=2024-09-03T10:40:06Z
+Iteration 299
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-09-01T10:40:06Z&maxCreationDate=2024-09-02T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-09-01T10:40:06Z&maxCreationDate=2024-09-02T10:40:06Z
+Iteration 300
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-31T10:40:06Z&maxCreationDate=2024-09-01T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-31T10:40:06Z&maxCreationDate=2024-09-01T10:40:06Z
+Iteration 301
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-30T10:40:06Z&maxCreationDate=2024-08-31T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-30T10:40:06Z&maxCreationDate=2024-08-31T10:40:06Z
+Iteration 302
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-29T10:40:06Z&maxCreationDate=2024-08-30T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-29T10:40:06Z&maxCreationDate=2024-08-30T10:40:06Z
+Iteration 303
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-28T10:40:06Z&maxCreationDate=2024-08-29T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-28T10:40:06Z&maxCreationDate=2024-08-29T10:40:06Z
+Iteration 304
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-27T10:40:06Z&maxCreationDate=2024-08-28T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-27T10:40:06Z&maxCreationDate=2024-08-28T10:40:06Z
+Iteration 305
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-26T10:40:06Z&maxCreationDate=2024-08-27T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-26T10:40:06Z&maxCreationDate=2024-08-27T10:40:06Z
+Iteration 306
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-25T10:40:06Z&maxCreationDate=2024-08-26T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-25T10:40:06Z&maxCreationDate=2024-08-26T10:40:06Z
+Iteration 307
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-24T10:40:06Z&maxCreationDate=2024-08-25T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-24T10:40:06Z&maxCreationDate=2024-08-25T10:40:06Z
+Iteration 308
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-23T10:40:06Z&maxCreationDate=2024-08-24T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-23T10:40:06Z&maxCreationDate=2024-08-24T10:40:06Z
+Iteration 309
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-22T10:40:06Z&maxCreationDate=2024-08-23T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-22T10:40:06Z&maxCreationDate=2024-08-23T10:40:06Z
+Iteration 310
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-21T10:40:06Z&maxCreationDate=2024-08-22T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-21T10:40:06Z&maxCreationDate=2024-08-22T10:40:06Z
+Iteration 311
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-20T10:40:06Z&maxCreationDate=2024-08-21T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-20T10:40:06Z&maxCreationDate=2024-08-21T10:40:06Z
+Iteration 312
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-19T10:40:06Z&maxCreationDate=2024-08-20T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-19T10:40:06Z&maxCreationDate=2024-08-20T10:40:06Z
+Iteration 313
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-18T10:40:06Z&maxCreationDate=2024-08-19T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-18T10:40:06Z&maxCreationDate=2024-08-19T10:40:06Z
+Iteration 314
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-17T10:40:06Z&maxCreationDate=2024-08-18T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-17T10:40:06Z&maxCreationDate=2024-08-18T10:40:06Z
+Iteration 315
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-16T10:40:06Z&maxCreationDate=2024-08-17T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-16T10:40:06Z&maxCreationDate=2024-08-17T10:40:06Z
+Iteration 316
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-15T10:40:06Z&maxCreationDate=2024-08-16T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-15T10:40:06Z&maxCreationDate=2024-08-16T10:40:06Z
+Iteration 317
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-14T10:40:06Z&maxCreationDate=2024-08-15T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-14T10:40:06Z&maxCreationDate=2024-08-15T10:40:06Z
+Iteration 318
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-13T10:40:06Z&maxCreationDate=2024-08-14T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-13T10:40:06Z&maxCreationDate=2024-08-14T10:40:06Z
+Iteration 319
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-12T10:40:06Z&maxCreationDate=2024-08-13T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-12T10:40:06Z&maxCreationDate=2024-08-13T10:40:06Z
+Iteration 320
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-11T10:40:06Z&maxCreationDate=2024-08-12T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-11T10:40:06Z&maxCreationDate=2024-08-12T10:40:06Z
+Iteration 321
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-10T10:40:06Z&maxCreationDate=2024-08-11T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-10T10:40:06Z&maxCreationDate=2024-08-11T10:40:06Z
+Iteration 322
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-09T10:40:06Z&maxCreationDate=2024-08-10T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-09T10:40:06Z&maxCreationDate=2024-08-10T10:40:06Z
+Iteration 323
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-08T10:40:06Z&maxCreationDate=2024-08-09T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-08T10:40:06Z&maxCreationDate=2024-08-09T10:40:06Z
+Iteration 324
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-07T10:40:06Z&maxCreationDate=2024-08-08T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-07T10:40:06Z&maxCreationDate=2024-08-08T10:40:06Z
+Iteration 325
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-06T10:40:06Z&maxCreationDate=2024-08-07T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-06T10:40:06Z&maxCreationDate=2024-08-07T10:40:06Z
+Iteration 326
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-05T10:40:06Z&maxCreationDate=2024-08-06T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-05T10:40:06Z&maxCreationDate=2024-08-06T10:40:06Z
+Iteration 327
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-04T10:40:06Z&maxCreationDate=2024-08-05T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-04T10:40:06Z&maxCreationDate=2024-08-05T10:40:06Z
+Iteration 328
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-03T10:40:06Z&maxCreationDate=2024-08-04T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-03T10:40:06Z&maxCreationDate=2024-08-04T10:40:06Z
+Iteration 329
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-02T10:40:06Z&maxCreationDate=2024-08-03T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-02T10:40:06Z&maxCreationDate=2024-08-03T10:40:06Z
+Iteration 330
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-08-01T10:40:06Z&maxCreationDate=2024-08-02T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-08-01T10:40:06Z&maxCreationDate=2024-08-02T10:40:06Z
+Iteration 331
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-31T10:40:06Z&maxCreationDate=2024-08-01T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-31T10:40:06Z&maxCreationDate=2024-08-01T10:40:06Z
+Iteration 332
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-30T10:40:06Z&maxCreationDate=2024-07-31T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-30T10:40:06Z&maxCreationDate=2024-07-31T10:40:06Z
+Iteration 333
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-29T10:40:06Z&maxCreationDate=2024-07-30T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-29T10:40:06Z&maxCreationDate=2024-07-30T10:40:06Z
+Iteration 334
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-28T10:40:06Z&maxCreationDate=2024-07-29T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-28T10:40:06Z&maxCreationDate=2024-07-29T10:40:06Z
+Iteration 335
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-27T10:40:06Z&maxCreationDate=2024-07-28T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-27T10:40:06Z&maxCreationDate=2024-07-28T10:40:06Z
+Iteration 336
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-26T10:40:06Z&maxCreationDate=2024-07-27T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-26T10:40:06Z&maxCreationDate=2024-07-27T10:40:06Z
+Iteration 337
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-25T10:40:06Z&maxCreationDate=2024-07-26T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-25T10:40:06Z&maxCreationDate=2024-07-26T10:40:06Z
+Iteration 338
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-24T10:40:06Z&maxCreationDate=2024-07-25T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-24T10:40:06Z&maxCreationDate=2024-07-25T10:40:06Z
+Iteration 339
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-23T10:40:06Z&maxCreationDate=2024-07-24T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-23T10:40:06Z&maxCreationDate=2024-07-24T10:40:06Z
+Iteration 340
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-22T10:40:06Z&maxCreationDate=2024-07-23T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-22T10:40:06Z&maxCreationDate=2024-07-23T10:40:06Z
+Iteration 341
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-21T10:40:06Z&maxCreationDate=2024-07-22T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-21T10:40:06Z&maxCreationDate=2024-07-22T10:40:06Z
+Iteration 342
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-20T10:40:06Z&maxCreationDate=2024-07-21T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-20T10:40:06Z&maxCreationDate=2024-07-21T10:40:06Z
+Iteration 343
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 2 * 0
+incomplete batch: 1 * 0
+0 * 2 + 0
+ 0
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-07-19T10:40:06Z&maxCreationDate=2024-07-20T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=1-1&departement=74&minCreationDate=2024-07-19T10:40:06Z&maxCreationDate=2024-07-20T10:40:06Z
+Iteration 344
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-18T10:40:06Z&maxCreationDate=2024-07-19T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-18T10:40:06Z&maxCreationDate=2024-07-19T10:40:06Z
+Iteration 345
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-17T10:40:06Z&maxCreationDate=2024-07-18T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-17T10:40:06Z&maxCreationDate=2024-07-18T10:40:06Z
+Iteration 346
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-16T10:40:06Z&maxCreationDate=2024-07-17T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-16T10:40:06Z&maxCreationDate=2024-07-17T10:40:06Z
+Iteration 347
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-15T10:40:06Z&maxCreationDate=2024-07-16T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-15T10:40:06Z&maxCreationDate=2024-07-16T10:40:06Z
+Iteration 348
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-14T10:40:06Z&maxCreationDate=2024-07-15T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-14T10:40:06Z&maxCreationDate=2024-07-15T10:40:06Z
+Iteration 349
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-13T10:40:06Z&maxCreationDate=2024-07-14T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-13T10:40:06Z&maxCreationDate=2024-07-14T10:40:06Z
+Iteration 350
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-12T10:40:06Z&maxCreationDate=2024-07-13T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-12T10:40:06Z&maxCreationDate=2024-07-13T10:40:06Z
+Iteration 351
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-11T10:40:06Z&maxCreationDate=2024-07-12T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-11T10:40:06Z&maxCreationDate=2024-07-12T10:40:06Z
+Iteration 352
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-10T10:40:06Z&maxCreationDate=2024-07-11T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-10T10:40:06Z&maxCreationDate=2024-07-11T10:40:06Z
+Iteration 353
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-09T10:40:06Z&maxCreationDate=2024-07-10T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-09T10:40:06Z&maxCreationDate=2024-07-10T10:40:06Z
+Iteration 354
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-08T10:40:06Z&maxCreationDate=2024-07-09T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-08T10:40:06Z&maxCreationDate=2024-07-09T10:40:06Z
+Iteration 355
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-07T10:40:06Z&maxCreationDate=2024-07-08T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-07T10:40:06Z&maxCreationDate=2024-07-08T10:40:06Z
+Iteration 356
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-06T10:40:06Z&maxCreationDate=2024-07-07T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-06T10:40:06Z&maxCreationDate=2024-07-07T10:40:06Z
+Iteration 357
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-05T10:40:06Z&maxCreationDate=2024-07-06T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-05T10:40:06Z&maxCreationDate=2024-07-06T10:40:06Z
+Iteration 358
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-04T10:40:06Z&maxCreationDate=2024-07-05T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-04T10:40:06Z&maxCreationDate=2024-07-05T10:40:06Z
+Iteration 359
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-03T10:40:06Z&maxCreationDate=2024-07-04T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-03T10:40:06Z&maxCreationDate=2024-07-04T10:40:06Z
+Iteration 360
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-02T10:40:06Z&maxCreationDate=2024-07-03T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-02T10:40:06Z&maxCreationDate=2024-07-03T10:40:06Z
+Iteration 361
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-07-01T10:40:06Z&maxCreationDate=2024-07-02T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-07-01T10:40:06Z&maxCreationDate=2024-07-02T10:40:06Z
+Iteration 362
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-30T10:40:06Z&maxCreationDate=2024-07-01T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-06-30T10:40:06Z&maxCreationDate=2024-07-01T10:40:06Z
+Iteration 363
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-29T10:40:06Z&maxCreationDate=2024-06-30T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-06-29T10:40:06Z&maxCreationDate=2024-06-30T10:40:06Z
+Iteration 364
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-28T10:40:06Z&maxCreationDate=2024-06-29T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-06-28T10:40:06Z&maxCreationDate=2024-06-29T10:40:06Z
+Iteration 365
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-27T10:40:06Z&maxCreationDate=2024-06-28T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-06-27T10:40:06Z&maxCreationDate=2024-06-28T10:40:06Z
+Iteration 366
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-26T10:40:06Z&maxCreationDate=2024-06-27T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-06-26T10:40:06Z&maxCreationDate=2024-06-27T10:40:06Z
+Iteration 367
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 2 * 0
+incomplete batch: 1 * 0
+0 * 2 + 0
+ 0
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-06-25T10:40:06Z&maxCreationDate=2024-06-26T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=1-1&departement=74&minCreationDate=2024-06-25T10:40:06Z&maxCreationDate=2024-06-26T10:40:06Z
+Iteration 368
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-24T10:40:06Z&maxCreationDate=2024-06-25T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-06-24T10:40:06Z&maxCreationDate=2024-06-25T10:40:06Z
+Iteration 369
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-23T10:40:06Z&maxCreationDate=2024-06-24T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-06-23T10:40:06Z&maxCreationDate=2024-06-24T10:40:06Z
+Iteration 370
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-22T10:40:06Z&maxCreationDate=2024-06-23T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-06-22T10:40:06Z&maxCreationDate=2024-06-23T10:40:06Z
+Iteration 371
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 2 * NaN
+incomplete batch: 1 * 0
+NaN * 2 + 0
+ NaN
+2
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-21T10:40:06Z&maxCreationDate=2024-06-22T10:40:06Z
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=NaN-NaN&departement=74&minCreationDate=2024-06-21T10:40:06Z&maxCreationDate=2024-06-22T10:40:06Z
+Iteration 372
+
+statust 200
+
+°Total size: 5
+°Range: 4
+°Complet batch: 1 * 4
+incomplete batch: 1 * 0
+4 * 1 + 0
+ 4
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-4&departement=74&minCreationDate=2024-06-20T10:40:06Z&maxCreationDate=2024-06-21T10:40:06Z
+Iteration 373
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-19T10:40:06Z&maxCreationDate=2024-06-20T10:40:06Z
+Iteration 374
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-18T10:40:06Z&maxCreationDate=2024-06-19T10:40:06Z
+Iteration 375
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-06-17T10:40:06Z&maxCreationDate=2024-06-18T10:40:06Z
+Iteration 376
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-16T10:40:06Z&maxCreationDate=2024-06-17T10:40:06Z
+Iteration 377
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-15T10:40:06Z&maxCreationDate=2024-06-16T10:40:06Z
+Iteration 378
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-14T10:40:06Z&maxCreationDate=2024-06-15T10:40:06Z
+Iteration 379
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-13T10:40:06Z&maxCreationDate=2024-06-14T10:40:06Z
+Iteration 380
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-12T10:40:06Z&maxCreationDate=2024-06-13T10:40:06Z
+Iteration 381
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-11T10:40:06Z&maxCreationDate=2024-06-12T10:40:06Z
+Iteration 382
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-10T10:40:06Z&maxCreationDate=2024-06-11T10:40:06Z
+Iteration 383
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-09T10:40:06Z&maxCreationDate=2024-06-10T10:40:06Z
+Iteration 384
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-08T10:40:06Z&maxCreationDate=2024-06-09T10:40:06Z
+Iteration 385
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-07T10:40:06Z&maxCreationDate=2024-06-08T10:40:06Z
+Iteration 386
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-06T10:40:06Z&maxCreationDate=2024-06-07T10:40:06Z
+Iteration 387
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-05T10:40:06Z&maxCreationDate=2024-06-06T10:40:06Z
+Iteration 388
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-04T10:40:06Z&maxCreationDate=2024-06-05T10:40:06Z
+Iteration 389
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-03T10:40:06Z&maxCreationDate=2024-06-04T10:40:06Z
+Iteration 390
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-02T10:40:06Z&maxCreationDate=2024-06-03T10:40:06Z
+Iteration 391
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-06-01T10:40:06Z&maxCreationDate=2024-06-02T10:40:06Z
+Iteration 392
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-31T10:40:06Z&maxCreationDate=2024-06-01T10:40:06Z
+Iteration 393
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-30T10:40:06Z&maxCreationDate=2024-05-31T10:40:06Z
+Iteration 394
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-29T10:40:06Z&maxCreationDate=2024-05-30T10:40:06Z
+Iteration 395
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-28T10:40:06Z&maxCreationDate=2024-05-29T10:40:06Z
+Iteration 396
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-27T10:40:06Z&maxCreationDate=2024-05-28T10:40:06Z
+Iteration 397
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-26T10:40:06Z&maxCreationDate=2024-05-27T10:40:06Z
+Iteration 398
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-25T10:40:06Z&maxCreationDate=2024-05-26T10:40:06Z
+Iteration 399
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-24T10:40:06Z&maxCreationDate=2024-05-25T10:40:06Z
+Iteration 400
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-23T10:40:06Z&maxCreationDate=2024-05-24T10:40:06Z
+Iteration 401
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-22T10:40:06Z&maxCreationDate=2024-05-23T10:40:06Z
+Iteration 402
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-21T10:40:06Z&maxCreationDate=2024-05-22T10:40:06Z
+Iteration 403
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-20T10:40:06Z&maxCreationDate=2024-05-21T10:40:06Z
+Iteration 404
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-19T10:40:06Z&maxCreationDate=2024-05-20T10:40:06Z
+Iteration 405
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-18T10:40:06Z&maxCreationDate=2024-05-19T10:40:06Z
+Iteration 406
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-17T10:40:06Z&maxCreationDate=2024-05-18T10:40:06Z
+Iteration 407
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-16T10:40:06Z&maxCreationDate=2024-05-17T10:40:06Z
+Iteration 408
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-15T10:40:06Z&maxCreationDate=2024-05-16T10:40:06Z
+Iteration 409
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-14T10:40:06Z&maxCreationDate=2024-05-15T10:40:06Z
+Iteration 410
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-13T10:40:06Z&maxCreationDate=2024-05-14T10:40:06Z
+Iteration 411
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-12T10:40:06Z&maxCreationDate=2024-05-13T10:40:06Z
+Iteration 412
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-11T10:40:06Z&maxCreationDate=2024-05-12T10:40:06Z
+Iteration 413
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-10T10:40:06Z&maxCreationDate=2024-05-11T10:40:06Z
+Iteration 414
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-09T10:40:06Z&maxCreationDate=2024-05-10T10:40:06Z
+Iteration 415
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-08T10:40:06Z&maxCreationDate=2024-05-09T10:40:06Z
+Iteration 416
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-07T10:40:06Z&maxCreationDate=2024-05-08T10:40:06Z
+Iteration 417
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-06T10:40:06Z&maxCreationDate=2024-05-07T10:40:06Z
+Iteration 418
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-05T10:40:06Z&maxCreationDate=2024-05-06T10:40:06Z
+Iteration 419
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-04T10:40:06Z&maxCreationDate=2024-05-05T10:40:06Z
+Iteration 420
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-03T10:40:06Z&maxCreationDate=2024-05-04T10:40:06Z
+Iteration 421
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-02T10:40:06Z&maxCreationDate=2024-05-03T10:40:06Z
+Iteration 422
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-05-01T10:40:06Z&maxCreationDate=2024-05-02T10:40:06Z
+Iteration 423
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-30T10:40:06Z&maxCreationDate=2024-05-01T10:40:06Z
+Iteration 424
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-29T10:40:06Z&maxCreationDate=2024-04-30T10:40:06Z
+Iteration 425
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-28T10:40:06Z&maxCreationDate=2024-04-29T10:40:06Z
+Iteration 426
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-27T10:40:06Z&maxCreationDate=2024-04-28T10:40:06Z
+Iteration 427
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-26T10:40:06Z&maxCreationDate=2024-04-27T10:40:06Z
+Iteration 428
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-25T10:40:06Z&maxCreationDate=2024-04-26T10:40:06Z
+Iteration 429
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-24T10:40:06Z&maxCreationDate=2024-04-25T10:40:06Z
+Iteration 430
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-23T10:40:06Z&maxCreationDate=2024-04-24T10:40:06Z
+Iteration 431
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-22T10:40:06Z&maxCreationDate=2024-04-23T10:40:06Z
+Iteration 432
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-21T10:40:06Z&maxCreationDate=2024-04-22T10:40:06Z
+Iteration 433
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-20T10:40:06Z&maxCreationDate=2024-04-21T10:40:06Z
+Iteration 434
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-19T10:40:06Z&maxCreationDate=2024-04-20T10:40:06Z
+Iteration 435
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-18T10:40:06Z&maxCreationDate=2024-04-19T10:40:06Z
+Iteration 436
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-17T10:40:06Z&maxCreationDate=2024-04-18T10:40:06Z
+Iteration 437
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-16T10:40:06Z&maxCreationDate=2024-04-17T10:40:06Z
+Iteration 438
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-15T10:40:06Z&maxCreationDate=2024-04-16T10:40:06Z
+Iteration 439
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-14T10:40:06Z&maxCreationDate=2024-04-15T10:40:06Z
+Iteration 440
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-13T10:40:06Z&maxCreationDate=2024-04-14T10:40:06Z
+Iteration 441
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-12T10:40:06Z&maxCreationDate=2024-04-13T10:40:06Z
+Iteration 442
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-11T10:40:06Z&maxCreationDate=2024-04-12T10:40:06Z
+Iteration 443
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-10T10:40:06Z&maxCreationDate=2024-04-11T10:40:06Z
+Iteration 444
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-09T10:40:06Z&maxCreationDate=2024-04-10T10:40:06Z
+Iteration 445
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-08T10:40:06Z&maxCreationDate=2024-04-09T10:40:06Z
+Iteration 446
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-07T10:40:06Z&maxCreationDate=2024-04-08T10:40:06Z
+Iteration 447
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-06T10:40:06Z&maxCreationDate=2024-04-07T10:40:06Z
+Iteration 448
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-05T10:40:06Z&maxCreationDate=2024-04-06T10:40:06Z
+Iteration 449
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-04T10:40:06Z&maxCreationDate=2024-04-05T10:40:06Z
+Iteration 450
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-03T10:40:06Z&maxCreationDate=2024-04-04T10:40:06Z
+Iteration 451
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-02T10:40:06Z&maxCreationDate=2024-04-03T10:40:06Z
+Iteration 452
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-04-01T10:40:06Z&maxCreationDate=2024-04-02T10:40:06Z
+Iteration 453
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-31T10:40:06Z&maxCreationDate=2024-04-01T10:40:06Z
+Iteration 454
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-30T11:40:06Z&maxCreationDate=2024-03-31T10:40:06Z
+Iteration 455
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-29T11:40:06Z&maxCreationDate=2024-03-30T11:40:06Z
+Iteration 456
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-28T11:40:06Z&maxCreationDate=2024-03-29T11:40:06Z
+Iteration 457
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-27T11:40:06Z&maxCreationDate=2024-03-28T11:40:06Z
+Iteration 458
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-26T11:40:06Z&maxCreationDate=2024-03-27T11:40:06Z
+Iteration 459
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-25T11:40:06Z&maxCreationDate=2024-03-26T11:40:06Z
+Iteration 460
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-24T11:40:06Z&maxCreationDate=2024-03-25T11:40:06Z
+Iteration 461
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-23T11:40:06Z&maxCreationDate=2024-03-24T11:40:06Z
+Iteration 462
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-22T11:40:06Z&maxCreationDate=2024-03-23T11:40:06Z
+Iteration 463
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-21T11:40:06Z&maxCreationDate=2024-03-22T11:40:06Z
+Iteration 464
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-20T11:40:06Z&maxCreationDate=2024-03-21T11:40:06Z
+Iteration 465
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-19T11:40:06Z&maxCreationDate=2024-03-20T11:40:06Z
+Iteration 466
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-18T11:40:06Z&maxCreationDate=2024-03-19T11:40:06Z
+Iteration 467
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-17T11:40:06Z&maxCreationDate=2024-03-18T11:40:06Z
+Iteration 468
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-16T11:40:06Z&maxCreationDate=2024-03-17T11:40:06Z
+Iteration 469
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-15T11:40:06Z&maxCreationDate=2024-03-16T11:40:06Z
+Iteration 470
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-14T11:40:06Z&maxCreationDate=2024-03-15T11:40:06Z
+Iteration 471
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-13T11:40:06Z&maxCreationDate=2024-03-14T11:40:06Z
+Iteration 472
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-12T11:40:06Z&maxCreationDate=2024-03-13T11:40:06Z
+Iteration 473
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-11T11:40:06Z&maxCreationDate=2024-03-12T11:40:06Z
+Iteration 474
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-10T11:40:06Z&maxCreationDate=2024-03-11T11:40:06Z
+Iteration 475
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-09T11:40:06Z&maxCreationDate=2024-03-10T11:40:06Z
+Iteration 476
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-08T11:40:06Z&maxCreationDate=2024-03-09T11:40:06Z
+Iteration 477
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-07T11:40:06Z&maxCreationDate=2024-03-08T11:40:06Z
+Iteration 478
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-06T11:40:06Z&maxCreationDate=2024-03-07T11:40:06Z
+Iteration 479
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-05T11:40:06Z&maxCreationDate=2024-03-06T11:40:06Z
+Iteration 480
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-04T11:40:06Z&maxCreationDate=2024-03-05T11:40:06Z
+Iteration 481
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-03T11:40:06Z&maxCreationDate=2024-03-04T11:40:06Z
+Iteration 482
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-02T11:40:06Z&maxCreationDate=2024-03-03T11:40:06Z
+Iteration 483
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-03-01T11:40:06Z&maxCreationDate=2024-03-02T11:40:06Z
+Iteration 484
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-29T11:40:06Z&maxCreationDate=2024-03-01T11:40:06Z
+Iteration 485
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-28T11:40:06Z&maxCreationDate=2024-02-29T11:40:06Z
+Iteration 486
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-27T11:40:06Z&maxCreationDate=2024-02-28T11:40:06Z
+Iteration 487
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-26T11:40:06Z&maxCreationDate=2024-02-27T11:40:06Z
+Iteration 488
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-25T11:40:06Z&maxCreationDate=2024-02-26T11:40:06Z
+Iteration 489
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-24T11:40:06Z&maxCreationDate=2024-02-25T11:40:06Z
+Iteration 490
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-23T11:40:06Z&maxCreationDate=2024-02-24T11:40:06Z
+Iteration 491
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-22T11:40:06Z&maxCreationDate=2024-02-23T11:40:06Z
+Iteration 492
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-21T11:40:06Z&maxCreationDate=2024-02-22T11:40:06Z
+Iteration 493
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-20T11:40:06Z&maxCreationDate=2024-02-21T11:40:06Z
+Iteration 494
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-19T11:40:06Z&maxCreationDate=2024-02-20T11:40:06Z
+Iteration 495
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-18T11:40:06Z&maxCreationDate=2024-02-19T11:40:06Z
+Iteration 496
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-17T11:40:06Z&maxCreationDate=2024-02-18T11:40:06Z
+Iteration 497
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-16T11:40:06Z&maxCreationDate=2024-02-17T11:40:06Z
+Iteration 498
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-15T11:40:06Z&maxCreationDate=2024-02-16T11:40:06Z
+Iteration 499
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-14T11:40:06Z&maxCreationDate=2024-02-15T11:40:06Z
+Iteration 500
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-13T11:40:06Z&maxCreationDate=2024-02-14T11:40:06Z
+Iteration 501
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-12T11:40:06Z&maxCreationDate=2024-02-13T11:40:06Z
+Iteration 502
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-11T11:40:06Z&maxCreationDate=2024-02-12T11:40:06Z
+Iteration 503
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-10T11:40:06Z&maxCreationDate=2024-02-11T11:40:06Z
+Iteration 504
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-09T11:40:06Z&maxCreationDate=2024-02-10T11:40:06Z
+Iteration 505
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-08T11:40:06Z&maxCreationDate=2024-02-09T11:40:06Z
+Iteration 506
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-07T11:40:06Z&maxCreationDate=2024-02-08T11:40:06Z
+Iteration 507
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-06T11:40:06Z&maxCreationDate=2024-02-07T11:40:06Z
+Iteration 508
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-05T11:40:06Z&maxCreationDate=2024-02-06T11:40:06Z
+Iteration 509
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-04T11:40:06Z&maxCreationDate=2024-02-05T11:40:06Z
+Iteration 510
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-03T11:40:06Z&maxCreationDate=2024-02-04T11:40:06Z
+Iteration 511
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-02-02T11:40:06Z&maxCreationDate=2024-02-03T11:40:06Z
+Iteration 512
+
+statust 200
+
+°Total size: 1
+°Range: 0
+°Complet batch: 1 * 0
+incomplete batch: 1 * 0
+0 * 1 + 0
+ 0
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-0&departement=74&minCreationDate=2024-02-01T11:40:06Z&maxCreationDate=2024-02-02T11:40:06Z
+Iteration 513
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-31T11:40:06Z&maxCreationDate=2024-02-01T11:40:06Z
+Iteration 514
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-30T11:40:06Z&maxCreationDate=2024-01-31T11:40:06Z
+Iteration 515
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-29T11:40:06Z&maxCreationDate=2024-01-30T11:40:06Z
+Iteration 516
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-28T11:40:06Z&maxCreationDate=2024-01-29T11:40:06Z
+Iteration 517
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-27T11:40:06Z&maxCreationDate=2024-01-28T11:40:06Z
+Iteration 518
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-26T11:40:06Z&maxCreationDate=2024-01-27T11:40:06Z
+Iteration 519
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-25T11:40:06Z&maxCreationDate=2024-01-26T11:40:06Z
+Iteration 520
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-24T11:40:06Z&maxCreationDate=2024-01-25T11:40:06Z
+Iteration 521
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-23T11:40:06Z&maxCreationDate=2024-01-24T11:40:06Z
+Iteration 522
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-22T11:40:06Z&maxCreationDate=2024-01-23T11:40:06Z
+Iteration 523
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-21T11:40:06Z&maxCreationDate=2024-01-22T11:40:06Z
+Iteration 524
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-20T11:40:06Z&maxCreationDate=2024-01-21T11:40:06Z
+Iteration 525
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-19T11:40:06Z&maxCreationDate=2024-01-20T11:40:06Z
+Iteration 526
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-18T11:40:06Z&maxCreationDate=2024-01-19T11:40:06Z
+Iteration 527
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-17T11:40:06Z&maxCreationDate=2024-01-18T11:40:06Z
+Iteration 528
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-16T11:40:06Z&maxCreationDate=2024-01-17T11:40:06Z
+Iteration 529
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-15T11:40:06Z&maxCreationDate=2024-01-16T11:40:06Z
+Iteration 530
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-14T11:40:06Z&maxCreationDate=2024-01-15T11:40:06Z
+Iteration 531
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-13T11:40:06Z&maxCreationDate=2024-01-14T11:40:06Z
+Iteration 532
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-12T11:40:06Z&maxCreationDate=2024-01-13T11:40:06Z
+Iteration 533
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-11T11:40:06Z&maxCreationDate=2024-01-12T11:40:06Z
+Iteration 534
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-10T11:40:06Z&maxCreationDate=2024-01-11T11:40:06Z
+Iteration 535
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-09T11:40:06Z&maxCreationDate=2024-01-10T11:40:06Z
+Iteration 536
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-08T11:40:06Z&maxCreationDate=2024-01-09T11:40:06Z
+Iteration 537
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-07T11:40:06Z&maxCreationDate=2024-01-08T11:40:06Z
+Iteration 538
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-06T11:40:06Z&maxCreationDate=2024-01-07T11:40:06Z
+Iteration 539
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-05T11:40:06Z&maxCreationDate=2024-01-06T11:40:06Z
+Iteration 540
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-04T11:40:06Z&maxCreationDate=2024-01-05T11:40:06Z
+Iteration 541
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-03T11:40:06Z&maxCreationDate=2024-01-04T11:40:06Z
+Iteration 542
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-02T11:40:06Z&maxCreationDate=2024-01-03T11:40:06Z
+Iteration 543
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2024-01-01T11:40:06Z&maxCreationDate=2024-01-02T11:40:06Z
+Iteration 544
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-31T11:40:06Z&maxCreationDate=2024-01-01T11:40:06Z
+Iteration 545
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-30T11:40:06Z&maxCreationDate=2023-12-31T11:40:06Z
+Iteration 546
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-29T11:40:06Z&maxCreationDate=2023-12-30T11:40:06Z
+Iteration 547
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-28T11:40:06Z&maxCreationDate=2023-12-29T11:40:06Z
+Iteration 548
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-27T11:40:06Z&maxCreationDate=2023-12-28T11:40:06Z
+Iteration 549
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-26T11:40:06Z&maxCreationDate=2023-12-27T11:40:06Z
+Iteration 550
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-25T11:40:06Z&maxCreationDate=2023-12-26T11:40:06Z
+Iteration 551
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-24T11:40:06Z&maxCreationDate=2023-12-25T11:40:06Z
+Iteration 552
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-23T11:40:06Z&maxCreationDate=2023-12-24T11:40:06Z
+Iteration 553
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-22T11:40:06Z&maxCreationDate=2023-12-23T11:40:06Z
+Iteration 554
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-21T11:40:06Z&maxCreationDate=2023-12-22T11:40:06Z
+Iteration 555
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-20T11:40:06Z&maxCreationDate=2023-12-21T11:40:06Z
+Iteration 556
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-19T11:40:06Z&maxCreationDate=2023-12-20T11:40:06Z
+Iteration 557
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-18T11:40:06Z&maxCreationDate=2023-12-19T11:40:06Z
+Iteration 558
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-17T11:40:06Z&maxCreationDate=2023-12-18T11:40:06Z
+Iteration 559
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-16T11:40:06Z&maxCreationDate=2023-12-17T11:40:06Z
+Iteration 560
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-15T11:40:06Z&maxCreationDate=2023-12-16T11:40:06Z
+Iteration 561
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-14T11:40:06Z&maxCreationDate=2023-12-15T11:40:06Z
+Iteration 562
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-13T11:40:06Z&maxCreationDate=2023-12-14T11:40:06Z
+Iteration 563
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-12T11:40:06Z&maxCreationDate=2023-12-13T11:40:06Z
+Iteration 564
+
+statust 204
+
+°Total size: 0
+°Range: NaN
+°Complet batch: 1 * NaN
+incomplete batch: 1 * 0
+NaN * 1 + 0
+ NaN
+1
+https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?range=0-NaN&departement=74&minCreationDate=2023-12-11T11:40:06Z&maxCreationDate=2023-12-12T11:40:06Z
+Iteration 565
